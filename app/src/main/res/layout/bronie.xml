@@ -23,6 +23,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="Noze"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
                 android:text="@string/no_e" />
 
             <Button
@@ -30,6 +32,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="Pistolety"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
                 android:text="@string/pistolety" />
 
             <Button
@@ -37,6 +41,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="SMG"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
                 android:text="@string/smg" />
 
             <Button
@@ -44,6 +50,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="Hewi"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
                 android:text="@string/bro_ci_szka" />
 
             <Button
@@ -51,6 +59,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="Karabiny"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
                 android:text="@string/karabiny" />
 
             <Button
@@ -58,6 +68,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="Granaty"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
                 android:text="@string/granaty" />
 
             <Button
@@ -65,12 +77,16 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="Ekwipunek"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
                 android:text="@string/ekwipunek" />
 
             <Button
                 android:id="@+id/button22"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
                 android:text="@string/danger_zone" />
 
             <Button
@@ -78,6 +94,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="Inne"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
                 android:text="@string/inne_2" />
 
         </LinearLayout>

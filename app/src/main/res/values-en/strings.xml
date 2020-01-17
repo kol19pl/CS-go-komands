@@ -22,7 +22,6 @@
     <string name="darmowa_kamizelka_przy_odrodzeniu">Free vest on revival</string>
     <string name="decoy">Decoy</string>
     <string name="defuse_kit">Defuse Kit</string>
-    <string name="demoui">demoui</string>
     <string name="dodaje_bota_po_stronie_ct">Adds a bot on the CT side</string>
     <string name="dodaje_bota_po_stronie_t">Adds a bot on the T side.</string>
     <string name="ekwipunek">Equipment</string>
@@ -127,4 +126,7 @@
     <string name="niesko_czona_ilo_amunicji_i_granat_w">Infinite amount of ammo and grenades.</string>
     <string name="niesko_czony_czas_na_kupno_broni">Infinite time to buy weapons</string>
     <string name="niesko_czony_czas_rundy">Infinite round time</string>
+    <string name="w_cz_czity">Turn on chits</string>
+    <string name="w_cz_wy_ucanie_no_y">Turn on knife throwing</string>
+    <string name="pistolety">Pistols</string>
 </resources>

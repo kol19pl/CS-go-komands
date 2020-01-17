@@ -25,20 +25,26 @@
                 android:id="@+id/button4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:background="@drawable/buton"
                 android:onClick="Bronie"
-                android:text="@string/komendy_na_bronie" />
+                android:text="@string/komendy_na_bronie"
+                android:textColor="@android:color/background_light" />
 
             <Button
                 android:id="@+id/button5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:background="@drawable/buton"
                 android:onClick="Granaty"
-                android:text="@string/komendy_na_granaty_dwa" />
+                android:text="@string/komendy_na_granaty_dwa"
+                android:textColor="@android:color/background_light" />
 
             <Button
                 android:id="@+id/button3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
                 android:onClick="Boty"
                 android:text="@string/boty" />
 
@@ -47,6 +53,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="Celownik"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
                 android:text="@string/komendy_na_celownik" />
 
             <Button
@@ -54,6 +62,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="Radar"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
                 android:text="@string/radar" />
 
             <Button
@@ -61,6 +71,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="KomendydoCwiczen"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
                 android:text="@string/komendy_do_wicze" />
 
             <Button
@@ -68,6 +80,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="FPS"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
                 android:text="@string/fps" />
 
             <Button
@@ -75,6 +89,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="Hud"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
                 android:text="@string/hud" />
 
             <Button
@@ -82,6 +98,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="Myszka"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
                 android:text="@string/myszka" />
 
             <Button
@@ -89,6 +107,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="Dzwienk"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
                 android:text="@string/d_wi_k" />
 
             <Button
@@ -96,6 +116,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="PozycjaBroni"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
                 android:text="@string/pozycja_broni" />
 
             <Button
@@ -103,6 +125,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="ZarzadzanieSerwerem"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
                 android:text="@string/zarz_dzanie_serwerem" />
 
             <Button
@@ -110,6 +134,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="Loncze"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
                 android:text="@string/cze" />
 
             <Button
@@ -117,6 +143,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="Demo"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
                 android:text="@string/nagrywanie_obs_uga_dema" />
 
             <Button
@@ -124,12 +152,16 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="Inne"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
                 android:text="@string/inne" />
 
             <TextView
                 android:id="@+id/textView61"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content" />
+                android:layout_height="wrap_content"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"/>
         </LinearLayout>
     </ScrollView>
 

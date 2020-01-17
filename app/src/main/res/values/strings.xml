@@ -37,7 +37,7 @@
     <string name="odtwarza_nagrane_demko">Odtwarza nagrane demko</string>
     <string name="playdemo" translatable="false">playdemo</string>
     <string name="otwiera_okno_do_zarz_dzania_demkiem_mo_liwo_przewijania_zwolniony_czas_itp">Otwiera okno do zarządzania demkiem – Możliwość przewijania, Zwolniony czas itp.</string>
-    <string name="demoui">demoui</string>
+    <string name="demoui" translatable="false">demoui</string>
     <string name="wy_cza_ca_y_hud_z_wyj_tkiem_celownika_oraz_informacji_kto_kogo_zabi">Wyłącza cały hud z wyjątkiem celownika oraz informacji kto kogo zabił.</string>
     <string name="cl_draw_only_deathnotices_1" translatable="false">cl_draw_only_deathnotices 1</string>
     <string name="wy_cza_ca_kowicie_hud">Wyłącza całkowicie hud.</string>
@@ -81,7 +81,6 @@
     <string name="cl_crosshaircolor_0_10" translatable="false">cl_crosshaircolor 0-10</string>
     <string name="ustala_og_ln_g_o_no_gry">Ustala ogólną głośność gry</string>
     <string name="voice_enable_0_1" translatable="false">voice_enable 0/1</string>
-    <string name="w_cza_lub_wy_cz_komunikacj_g_osow_w_grze">Włącza lub wyłączą komunikację głosową w grze.</string>
     <string name="snd_mixahead" translatable="false">snd_mixahead</string>
     <string name="ustala_op_nienie_d_wi_ku">Ustala opóźnienie dźwięku</string>
     <string name="volume" translatable="false">volume</string>
@@ -300,7 +299,7 @@
     <string name="special_target">Special target</string>
     <string name="ent_create_prop_weapon_upgrade_contractkill" translatable="false">ent_create prop_weapon_upgrade_contractkill</string>
     <string name="no_e">Noże</string>
-    <string name="pistolety" translatable="false">Pistolety</string>
+    <string name="pistolety">Pistolety</string>
     <string name="smg" translatable="false">SMG</string>
     <string name="bro_ci_szka">Broń ciężka</string>
     <string name="karabiny">Karabiny</string>
@@ -326,4 +325,31 @@
     <string name="give_weapon_sawedoff" translatable="false">give weapon_sawedoff</string>
     <string name="xm1014" translatable="false">XM1014</string>
     <string name="give_weapon_xm1014" translatable="false">give weapon_xm1014</string>
+    <string name="w_cz_czity">Włącz czity</string>
+    <string name="mp_drop_knife_enable_1" translatable="false">mp_drop_knife_enable 1</string>
+    <string name="give_weapon_knife_t" translatable="false">give weapon_knife_t</string>
+    <string name="give_weapon_knife_css" translatable="false">give weapon_knife_css</string>
+    <string name="give_weapon_bayonet" translatable="false">give weapon_bayonet</string>
+    <string name="give_weapon_knife_flip" translatable="false">give weapon_knife_flip</string>
+    <string name="give_weapon_knife_gut" translatable="false">give weapon_knife_gut</string>
+    <string name="give_weapon_knife_m9_bayonet" translatable="false">give weapon_knife_m9_bayonet</string>
+    <string name="give_weapon_knife_butterfly" translatable="false">give weapon_knife_butterfly</string>
+    <string name="give_weapon_knife_push" translatable="false">give weapon_knife_push</string>
+    <string name="give_weapon_knifegg" translatable="false">give weapon_knifegg</string>
+    <string name="give_weapon_knife_survival_bowie" translatable="false">give weapon_knife_survival_bowie</string>
+    <string name="give_weapon_knife_ursus" translatable="false">give weapon_knife_ursus</string>
+    <string name="give_weapon_knife_gypsy_jackknife" translatable="false">give weapon_knife_gypsy_jackknife</string>
+    <string name="give_weapon_knife_stiletto" translatable="false">give weapon_knife_stiletto</string>
+    <string name="give_weapon_knife_widowmaker" translatable="false">give weapon_knife_widowmaker</string>
+    <string name="give_weapon_knife_ghost" translatable="false">give weapon_knife_ghost</string>
+    <string name="give_weapon_knife_canis" translatable="false">give weapon_knife_canis</string>
+    <string name="give_weapon_knife_cord" translatable="false">give weapon_knife_cord</string>
+    <string name="give_weapon_knife_falchion" translatable="false">give weapon_knife_falchion</string>
+    <string name="give_weapon_knife_tactical" translatable="false">give weapon_knife_tactical</string>
+    <string name="give_weapon_knife_karambit" translatable="false">give weapon_knife_karambit</string>
+    <string name="w_cz_wy_ucanie_no_y">Włącz wyrzucanie noży</string>
+    <string name="give_weapon_knife" translatable="false">give weapon_knife</string>
+    <string name="give_weapon_knife_skeleton" translatable="false">give weapon_knife_skeleton</string>
+    <string name="give_weapon_knife_outdoor" translatable="false">give weapon_knife_outdoor</string>
+    <string name="w_cza_lub_wy_cz_komunikacj_g_osow_w_grze">Włącza lub wyłączą komunikację głosową w grze.</string>
 </resources>

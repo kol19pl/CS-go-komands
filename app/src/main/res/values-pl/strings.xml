@@ -14,7 +14,6 @@
     <string name="czy_ma_wy_wietla_kolory_broni_po_prawej_stronie_na_ekranie">Czy ma wyświetlać kolory broni po prawej stronie na ekranie.</string>
     <string name="d_wi_k">Dźwięk</string>
     <string name="darmowa_kamizelka_przy_odrodzeniu">Darmowa kamizelka przy odrodzeniu</string>
-    <string name="demoui">demoui</string>
     <string name="dodaje_bota_po_stronie_ct">Dodaje bota po stronie CT</string>
     <string name="dodaje_bota_po_stronie_t">Dodaje bota po stronie T.</string>
     <string name="g_osowanie_na_przerw_podczas_trybu_turniejowego">Głosowanie na przerwę podczas trybu turniejowego</string>
@@ -127,4 +126,7 @@
     <string name="w_cza_informacje_o_naszych_fps_pingu_tickrate_itp">Włącza informacje o naszych FPS, pingu, tickrate itp.</string>
     <string name="bump_mine">Bump Mine</string>
     <string name="defuse_kit">Defuse Kit</string>
+    <string name="w_cz_czity">Włącz czity</string>
+    <string name="w_cz_wy_ucanie_no_y">Włącz wyrzucanie noży</string>
+    <string name="pistolety">Pistolety</string>
 </resources>
