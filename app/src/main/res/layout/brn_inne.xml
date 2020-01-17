@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView272"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/money"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView273"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/impulse_101"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView288"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/ammo"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView289"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/givecurrentammo"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView290"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/chicken"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView291"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/give_chicken"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

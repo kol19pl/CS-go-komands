@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/adView16"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/zarzondzanieser1.1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/podajemy_has_o_rcon_do_zarz_dzania_serwerem"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/zarzondzanieser1.2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rcon_password_has_o"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/zarzondzanieser2.1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/ustalamy_has_o_na_serwer"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/zarzondzanieser2.2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rcon_sv_password_has_o"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/zarzondzanieser3.1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/zmiana_mapy_na_serwerze"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/zarzondzanieser3.2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rcon_changelevel_nazwa_mapy"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/zarzondzanieser4.1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/wczytuje_config_na_serwer"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/zarzondzanieser4.2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/viewrcon_exec_nazwa_pliku"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView16"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        app:adSize="SMART_BANNER"
+        app:adUnitId="ca-app-pub-4834003578511022/4679805754"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

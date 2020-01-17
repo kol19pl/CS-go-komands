@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView258"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/diversion_device"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView259"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/give_weapon_diversion"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView260"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/firebomb"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView261"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/give_weapon_firebomb"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView262"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/frag_grenade"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView263"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/give_weapon_frag"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView264"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/snowball"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView265"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/give_weapon_snowball"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView266"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/tablet"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView267"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/give_weapon_tablet"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView268"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/bump_mine"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView269"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/give_weapon_bumpmine"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView270"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/ballistic_shield"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView271"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/give_weapon_shield"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView274"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/exo_jump"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView275"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/exojump"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView276"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/turret"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView277"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/ent_create_dronegun"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView278"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/the_amazon_drone"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView279"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/ent_create_drone"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView280"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/money"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView281"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/give_item_cash"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView282"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/ammo_box"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView283"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/ent_create_prop_ammo_box_generic"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView284"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/parachute"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView285"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/ent_create_prop_weapon_upgrade_chute"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView286"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/special_target"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView287"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/ent_create_prop_weapon_upgrade_contractkill"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

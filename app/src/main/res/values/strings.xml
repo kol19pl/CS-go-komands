@@ -1,0 +1,329 @@
+<resources>
+    <string name="app_name">Komendy do CS GO</string>
+    <string name="rcon_password_has_o" translatable="false"><![CDATA[rcon_password <hasło>]]></string>
+    <string name="rcon_sv_password_has_o" translatable="false"><![CDATA[rcon sv_password <hasło>]]></string>
+    <string name="rcon_changelevel_nazwa_mapy" translatable="false"><![CDATA[rcon changelevel <nazwa mapy>]]></string>
+    <string name="viewrcon_exec_nazwa_pliku" translatable="false"><![CDATA[Viewrcon exec <nazwa pliku>]]></string>
+    <string name="wczytuje_config_na_serwer">Wczytuje config na serwer.</string>
+    <string name="zmiana_mapy_na_serwerze">Zmiana mapy na serwerze.</string>
+    <string name="ustalamy_has_o_na_serwer">Ustalamy hasło na serwer.</string>
+    <string name="podajemy_has_o_rcon_do_zarz_dzania_serwerem">Podajemy hasło rcon do zarządzania serwerem.</string>
+    <string name="_1_w_cza_okno_powitalne_podczas_do_czania_na_serwer_0_wy_cza">1 Włącza okno powitalne podczas dołączania na serwer. 0 wyłącza.</string>
+    <string name="cl_disablehtmlmotd_1_0" translatable="false">cl_disablehtmlmotd 1/0</string>
+    <string name="_1_w_cza_podpowiedzi_w_grze_0_wy_cza">1 Włącza podpowiedzi w grze. 0 Wyłącza.</string>
+    <string name="cl_showhelp_1_0" translatable="false">cl_showhelp 1/0</string>
+    <string name="g_osowanie_na_przerw_podczas_trybu_turniejowego">Głosowanie na przerwę podczas trybu turniejowego</string>
+    <string name="mp_team_timeout_time" translatable="false">mp_team_timeout_time</string>
+    <string name="komendy_na_celownik">Komendy na Celownik</string>
+    <string name="radar">Radar</string>
+    <string name="boty">Boty</string>
+    <string name="komendy_do_wicze">Komendy do ćwiczeń</string>
+    <string name="komendy_na_bronie">Komendy na bronie</string>
+    <string name="komendy_na_granaty">Komendy na granaty:</string>
+    <string name="fps" translatable="false">FPS</string>
+    <string name="button" translatable="false">Button</string>
+    <string name="hud" translatable="false">Hud</string>
+    <string name="myszka">Myszka</string>
+    <string name="pozycja_broni">Pozycja Broni</string>
+    <string name="zarz_dzanie_serwerem">Zarządzanie Serwerem</string>
+    <string name="d_wi_k">Dźwięk</string>
+    <string name="cze">Łącze</string>
+    <string name="nagrywanie_obs_uga_dema">Nagrywanie / Obsługa dema</string>
+    <string name="inne">Inne</string>
+    <string name="rozpoczyna_nagrywanie_demka">Rozpoczyna nagrywanie demka.</string>
+    <string name="stop" translatable="false">stop</string>
+    <string name="zatrzymuje_nagrywanie_demka">Zatrzymuje nagrywanie demka.</string>
+    <string name="record_nazwa_dema" translatable="false"><![CDATA[record <nazwa dema>]]></string>
+    <string name="odtwarza_nagrane_demko">Odtwarza nagrane demko</string>
+    <string name="playdemo" translatable="false">playdemo</string>
+    <string name="otwiera_okno_do_zarz_dzania_demkiem_mo_liwo_przewijania_zwolniony_czas_itp">Otwiera okno do zarządzania demkiem – Możliwość przewijania, Zwolniony czas itp.</string>
+    <string name="demoui">demoui</string>
+    <string name="wy_cza_ca_y_hud_z_wyj_tkiem_celownika_oraz_informacji_kto_kogo_zabi">Wyłącza cały hud z wyjątkiem celownika oraz informacji kto kogo zabił.</string>
+    <string name="cl_draw_only_deathnotices_1" translatable="false">cl_draw_only_deathnotices 1</string>
+    <string name="wy_cza_ca_kowicie_hud">Wyłącza całkowicie hud.</string>
+    <string name="cl_drawhud_0" translatable="false">cl_drawhud 0</string>
+    <string name="wy_czenie_modelu_broni">Wyłączenie modelu broni</string>
+    <string name="r_drawviewmodel_0" translatable="false">r_drawviewmodel 0</string>
+    <string name="wy_czenie_czatu_go_tv">Wyłączenie czatu go tv</string>
+    <string name="tv_nochat_0" translatable="false">tv_nochat 0</string>
+    <string name="ilo_bot_w_na_serwerze">Ilość botów na serwerze.</string>
+    <string name="bot_kick" translatable="false">bot_kick</string>
+    <string name="bot_quota_x" translatable="false">bot_quota X</string>
+    <string name="wyrzuca_wszystkie_boty_z_serwera">Wyrzuca wszystkie boty z serwera</string>
+    <string name="dodaje_bota_po_stronie_ct">Dodaje bota po stronie CT</string>
+    <string name="bot_add_ct" translatable="false">bot_add_ct</string>
+    <string name="dodaje_bota_po_stronie_t">Dodaje bota po stronie T.</string>
+    <string name="bot_add_t" translatable="false">bot_add_t</string>
+    <string name="boty_nie_strzelaj">Boty nie strzelają</string>
+    <string name="bot_dont_shoot_1" translatable="false">bot_dont_shoot 1</string>
+    <string name="boty_zatrzymuj_si_w_miejscu">Boty zatrzymują się w miejscu</string>
+    <string name="bot_stop_1" translatable="false">bot_stop 1</string>
+    <string name="ustawianie_bota">Ustawianie bota</string>
+    <string name="bot_place" translatable="false">bot_place</string>
+    <string name="poziom_trudno_ci_bot_w">Poziom trudności botów</string>
+    <string name="bot_difficulty_0_1_2_3" translatable="false">bot_difficulty 0, 1, 2, 3</string>
+    <string name="zmienia_rodzaj_celownika_1_5">Zmienia rodzaj celownika 1-5</string>
+    <string name="zmienia_przerw_mi_dzy_kreskami_w_celowniku">Zmienia przerwę między kreskami w celowniku.</string>
+    <string name="cl_crosshairsize" translatable="false">cl_crosshairsize</string>
+    <string name="zmienia_wielko_celownika">Zmienia wielkość celownika.</string>
+    <string name="cl_crosshairstyle" translatable="false">cl_crosshairstyle</string>
+    <string name="cl_crosshairgap" translatable="false">cl_crosshairgap</string>
+    <string name="zmienia_grubo_celownika">Zmienia grubość celownika.</string>
+    <string name="cl_crosshairthicknes" translatable="false">cl_crosshairthicknes</string>
+    <string name="komenda_na_kropk_w_celowniku_0_wy_cza_1_w_cza">Komenda na kropkę w celowniku – 0 wyłącza 1 włącza.</string>
+    <string name="cl_crosshairdot_0_1" translatable="false">cl_crosshairdot 0/1</string>
+    <string name="zmienia_prze_roczysto_celownika">Zmienia przeźroczystość celownika.</string>
+    <string name="cl_crosshairalpha" translatable="false">cl_crosshairalpha</string>
+    <string name="zmiana_koloru_celownika">Zmiana koloru celownika:</string>
+    <string name="cl_crosshaircolor_r_0_255" translatable="false">cl_crosshaircolor_r 0-255</string>
+    <string name="cl_crosshaircolor_g_0_255" translatable="false">cl_crosshaircolor_g 0-255</string>
+    <string name="cl_crosshaircolor_b_0_255" translatable="false">cl_crosshaircolor_b 0-255</string>
+    <string name="cl_crosshaircolor_0_10" translatable="false">cl_crosshaircolor 0-10</string>
+    <string name="ustala_og_ln_g_o_no_gry">Ustala ogólną głośność gry</string>
+    <string name="voice_enable_0_1" translatable="false">voice_enable 0/1</string>
+    <string name="w_cza_lub_wy_cz_komunikacj_g_osow_w_grze">Włącza lub wyłączą komunikację głosową w grze.</string>
+    <string name="snd_mixahead" translatable="false">snd_mixahead</string>
+    <string name="ustala_op_nienie_d_wi_ku">Ustala opóźnienie dźwięku</string>
+    <string name="volume" translatable="false">volume</string>
+    <string name="w_cza_lub_wy_cza_komunikacj_g_osow_w_poczekalni">Włącza lub wyłącza komunikację głosową w poczekalni.</string>
+    <string name="lobby_voice_chat_enabled_0_1" translatable="false">lobby_voice_chat_enabled 0/1</string>
+    <string name="ustala_g_o_no_komunikacji_g_osowej">Ustawia głośność komunikacji głosowej</string>
+    <string name="voice_scale" translatable="false">voice_scale</string>
+    <string name="ustala_og_ln_g_o_no_muzyki_w_grze">Ustala ogólną głośność muzyki w grze.</string>
+    <string name="snd_musicvolume" translatable="false">snd_musicvolume</string>
+    <string name="ustala_g_o_no_muzyki_na_pocz_tku_rundy">Ustawia głośność muzyki na początku rundy</string>
+    <string name="snd_roundstart_volume" translatable="false">snd_roundstart_volume</string>
+    <string name="ustala_g_o_no_muzyki_w_ostatnich_sekundach_rundy">Ustawia głośność muzyki w ostatnich sekundach rundy</string>
+    <string name="snd_roundend_volume" translatable="false">snd_roundend_volume</string>
+    <string name="ustala_g_o_no_d_wi_ku_podczas_zgonu">Ustawia głośność dźwięku podczas zgonu</string>
+    <string name="snd_deathcamera_volume" translatable="false">snd_deathcamera_volume</string>
+    <string name="ustala_wielko_hud_u">Ustala wielkość hud’u.</string>
+    <string name="cl_hud_color_1_7" translatable="false">cl_hud_color 1-7</string>
+    <string name="ustala_kolor_hud_u">Ustala kolor hud’u</string>
+    <string name="cl_hud_radar_scale" translatable="false">cl_hud_radar_scale</string>
+    <string name="ustala_wielko_radaru">Ustala wielkość radaru</string>
+    <string name="hud_scaling" translatable="false">hud_scaling</string>
+    <string name="ustala_prze_roczysto_hud_u">Ustala przeźroczystość hud’u.</string>
+    <string name="cl_hud_background_alpha" translatable="false">cl_hud_background_alpha</string>
+    <string name="pokazuje_ikon_bomby_pod_radarem_gdy_jeste_my_w_jej_posiadaniu">Pokazuje ikonę bomby pod radarem gdy jesteśmy w jej posiadaniu.</string>
+    <string name="cl_hud_bomb_under_radar" translatable="false">cl_hud_bomb_under_radar</string>
+    <string name="styl_wy_wietlania_ilo_ci_zdrowia">Styl wyświetlania ilości zdrowia.</string>
+    <string name="cl_hud_healthammo_style" translatable="false">cl_hud_healthammo_style</string>
+    <string name="czy_ma_pokazywa_ekwipunek_po_prawej_stronie_ekranu">Czy ma pokazywać ekwipunek po prawej stronie ekranu</string>
+    <string name="cl_showloadout_0_1" translatable="false">cl_showloadout 0/1</string>
+    <string name="czy_ma_wy_wietla_kolory_broni_po_prawej_stronie_na_ekranie">Czy ma wyświetlać kolory broni po prawej stronie na ekranie.</string>
+    <string name="cl_loadout_colorweaponnames_0_1" translatable="false">cl_loadout_colorweaponnames 0/1</string>
+    <string name="clan_w_detch_note">Clan w detch note</string>
+    <string name="cl_show_clan_in_death_notice" translatable="false">cl_show_clan_in_death_notice</string>
+    <string name="zezwala_na_cheatowanie_na_serwerze_lokalnym">Zezwala na cheatowanie na serwerze lokalnym.</string>
+    <string name="sv_cheats_1" translatable="false">sv_cheats 1</string>
+    <string name="nie_miertelno">Nieśmiertelność</string>
+    <string name="sv_infinite_ammo_1" translatable="false">sv_infinite_ammo 1</string>
+    <string name="mp_roundtime_defuse_999" translatable="false">mp_roundtime_defuse 999</string>
+    <string name="niesko_czony_czas_rundy">Nieskończony czas rundy</string>
+    <string name="mp_warmup_end" translatable="false">mp_warmup_end</string>
+    <string name="mo_liwo_kupna_broni_w_ka_dym_miejscu_na_mapie">Możliwość kupna broni w każdym miejscu na mapie</string>
+    <string name="mp_buytime_9999" translatable="false">mp_buytime 9999</string>
+    <string name="mp_buy_anywhere_1" translatable="false">mp_buy_anywhere 1</string>
+    <string name="god" translatable="false">god</string>
+    <string name="pokazuje_lady_po_kulach">Pokazuje ślady po kulach</string>
+    <string name="niesko_czona_ilo_amunicji_i_granat_w">Nieskończona ilość amunicji i granatów.</string>
+    <string name="sv_showimpacts_1" translatable="false">sv_showimpacts 1</string>
+    <string name="latanie_po_mapie_przechodzenie_przez_ciany">Latanie po mapie / przechodzenie przez ściany</string>
+    <string name="noclip" translatable="false">noclip</string>
+    <string name="zielona_linia_za_granatem">Zielona linia za granatem.</string>
+    <string name="sv_grenade_trajectory_1" translatable="false">sv_grenade_trajectory 1</string>
+    <string name="mo_liwo_posiadania_5_granat_w_na_raz">Możliwość posiadania 5 granatów na raz</string>
+    <string name="ammo_grenade_limit_total_5" translatable="false">ammo_grenade_limit_total 5</string>
+    <string name="niesko_czony_czas_na_kupno_broni">Nieskończony czas na kupno broni</string>
+    <string name="zako_czenie_rozgrzewki">Zakończenie rozgrzewki</string>
+    <string name="losowe_spawny_na_mapie">Losowe spawny na mapie</string>
+    <string name="mp_randomspawn" translatable="false">mp_randomspawn</string>
+    <string name="darmowa_kamizelka_przy_odrodzeniu">Darmowa kamizelka przy odrodzeniu</string>
+    <string name="mp_free_armor" translatable="false">mp_free_armor</string>
+    <string name="rate_128000" translatable="false">rate „128000”</string>
+    <string name="cl_updaterate_128" translatable="false">cl_updaterate „128”</string>
+    <string name="cl_cmdrate_128" translatable="false">cl_cmdrate „128”</string>
+    <string name="cl_interp_0" translatable="false">cl_interp „0”</string>
+    <string name="cl_interp_ratio_1" translatable="false">cl_interp_ratio „1”</string>
+    <string name="ustala_czu_o_myszki">Ustawia czułość myszki</string>
+    <string name="sensitivity" translatable="false">sensitivity</string>
+    <string name="ustala_czu_o_myszki_podczas_celowania_z_awp_scout">Ustawia czułość myszki podczas celowania z awp/scout..</string>
+    <string name="zoom_sensitivity_ratio_mouse" translatable="false">zoom_sensitivity_ratio_mouse</string>
+    <string name="_0_wy_cz_akceleracje_myszki_1_w_cza_akceleracja_myszki">0 Wyłączą akceleracje myszki. 1 – Włącza akceleracja myszki.</string>
+    <string name="m_customaccel" translatable="false">m_customaccel</string>
+    <string name="je_li_ustalone_na_1_csgo_b_dzie_wykorzystywa_ustawienia_myszki_z_windowsa">Jeśli ustalone na 1 CSGO będzie wykorzystywał ustawienia myszki z Windowsa.</string>
+    <string name="m_rawinput" translatable="false">m_rawinput</string>
+    <string name="bro_w_lewej_r_ce_1_w_prawej_0">Broń w lewej ręce 1 – w prawej 0</string>
+    <string name="cl_righthand_0" translatable="false">cl_righthand 0</string>
+    <string name="ustala_odleg_o_broni">Ustala odległość broni</string>
+    <string name="viewmodel_fov" translatable="false">viewmodel_fov</string>
+    <string name="ustala_pozycj_broni_x">Ustala pozycję broni X.</string>
+    <string name="viewmodel_offset_x" translatable="false">viewmodel_offset_x</string>
+    <string name="ustala_pozycj_broni_y">Ustala pozycję broni Y.</string>
+    <string name="viewmodel_offset_y" translatable="false">viewmodel_offset_y</string>
+    <string name="ustala_pozycj_broni_z">Ustala pozycję broni Z.</string>
+    <string name="viewmodel_offset_z" translatable="false">viewmodel_offset_z</string>
+    <string name="zmienia_wielko_radaru">Zmienia wielkość radaru</string>
+    <string name="radar_w_centrum">Radar w centrum</string>
+    <string name="cl_radar_always_centered_0_lub_1" translatable="false">cl_radar_always_centered 0 lub 1</string>
+    <string name="skala_radaru_ustala_pole_widzenia_na_radarze">Skala radaru / Ustala pole widzenia na radarze.</string>
+    <string name="cl_radar_scale" translatable="false">cl_radar_scale</string>
+    <string name="wielko_znacznik_w_na_radarze">Wielkość znaczników na radarze.</string>
+    <string name="cl_radar_icon_scale_min" translatable="false">cl_radar_icon_scale_min</string>
+    <string name="komendy_na_granaty_dwa">komendy na granaty</string>
+    <string name="flasbang">Flasbang</string>
+    <string name="give_weapon_decoy" translatable="false">give weapon_decoy</string>
+    <string name="give_weapon_flashbang" translatable="false">give weapon_flashbang</string>
+    <string name="decoy">Decoy</string>
+    <string name="he_granade">HE granade</string>
+    <string name="give_weapon_hegrenade" translatable="false">give weapon_hegrenade</string>
+    <string name="incgrenade_ct_molotov">Incgrenade (CT molotov)</string>
+    <string name="give_weapon_incgrenade" translatable="false">give weapon_incgrenade</string>
+    <string name="molotov">Molotov</string>
+    <string name="give_weapon_molotov" translatable="false">give_weapon_molotov</string>
+    <string name="smoke">Smoke</string>
+    <string name="give_weapon_smokegrenade" translatable="false">give weapon_smokegrenade</string>
+    <string name="snowball">Snowball</string>
+    <string name="give_weapon_snowball" translatable="false">give weapon_snowball</string>
+    <string name="pp_bizon" translatable="false">PP-Bizon</string>
+    <string name="give_weapon_bizon" translatable="false">give weapon_bizon</string>
+    <string name="mac_10" translatable="false">Mac-10</string>
+    <string name="give_weapon_mac10" translatable="false">give weapon_mac10</string>
+    <string name="mp7" translatable="false">MP7</string>
+    <string name="give_weapon_mp7" translatable="false">give weapon_mp7</string>
+    <string name="mp9" translatable="false">MP9</string>
+    <string name="give_weapon_mp9" translatable="false">give weapon_mp9</string>
+    <string name="p90" translatable="false">P90</string>
+    <string name="give_weapon_p90" translatable="false">give weapon_p90</string>
+    <string name="ump_45" translatable="false">UMP-45</string>
+    <string name="give_weapon_ump45" translatable="false">give weapon_ump45</string>
+    <string name="mp5_sd" translatable="false">MP5-SD</string>
+    <string name="give_weapon_mp5sd" translatable="false">give weapon_mp5sd</string>
+    <string name="usp" translatable="false">USP</string>
+    <string name="give_weapon_usp_silencer" translatable="false">give weapon_usp_silencer</string>
+    <string name="desert_eagle" translatable="false">Desert eagle</string>
+    <string name="give_weapon_fiveseven" translatable="false">give weapon_fiveseven</string>
+    <string name="fiveseven" translatable="false">FiveseveN</string>
+    <string name="give_weapon_elite" translatable="false">give weapon_elite</string>
+    <string name="dual_berettas" translatable="false">Dual Berettas</string>
+    <string name="give_weapon_deagle" translatable="false">give weapon_deagle</string>
+    <string name="glock_18" translatable="false">Glock-18</string>
+    <string name="give_weapon_glock" translatable="false">give weapon_glock</string>
+    <string name="p2000" translatable="false">P2000</string>
+    <string name="give_weapon_hkp2000" translatable="false">give weapon_hkp2000</string>
+    <string name="p250" translatable="false">P250</string>
+    <string name="give_weapon_p250" translatable="false">give weapon_p250</string>
+    <string name="tec9" translatable="false">Tec9</string>
+    <string name="give_weapon_tec9" translatable="false">give weapon_tec9</string>
+    <string name="cz75_auto" translatable="false">CZ75-Auto</string>
+    <string name="give_weapon_cz75a" translatable="false">give weapon_cz75a</string>
+    <string name="r8_revolver" translatable="false">R8-Revolver</string>
+    <string name="give_weapon_revolver" translatable="false">give weapon_revolver</string>
+    <string name="m4a4" translatable="false">M4A4</string>
+    <string name="give_weapon_m4a1_silencer" translatable="false">give weapon_m4a1_silencer</string>
+    <string name="give_weapon_aug" translatable="false">give weapon_aug</string>
+    <string name="give_weapon_awp" translatable="false">give weapon_awp</string>
+    <string name="awp" translatable="false">AWP</string>
+    <string name="aug" translatable="false">AUG</string>
+    <string name="give_weapon_ak47" translatable="false">give weapon_ak47</string>
+    <string name="ak47" translatable="false">AK47</string>
+    <string name="m4a1_s" translatable="false">M4A1-S</string>
+    <string name="give_weapon_m4a1" translatable="false">give weapon_m4a1</string>
+    <string name="famas" translatable="false">Famas</string>
+    <string name="give_weapon_famas" translatable="false">give weapon_famas</string>
+    <string name="g3sg1" translatable="false">G3SG1</string>
+    <string name="give_weapon_g3sg1" translatable="false">give weapon_g3sg1</string>
+    <string name="galil_ar" translatable="false">Galil-AR</string>
+    <string name="give_weapon_galilar" translatable="false">give weapon_galilar</string>
+    <string name="scar_20" translatable="false">SCAR-20</string>
+    <string name="give_weapon_scar20" translatable="false">give weapon_scar20</string>
+    <string name="sg556" translatable="false">SG556</string>
+    <string name="give_weapon_sg556" translatable="false">give weapon_sg556</string>
+    <string name="ssg_08" translatable="false">SSG 08</string>
+    <string name="give_weapon_ssg08" translatable="false">give weapon_ssg08</string>
+    <string name="w_cza_informacje_o_fps">Włącza informacje o FPS</string>
+    <string name="net_graph_1" translatable="false">net_graph 1</string>
+    <string name="w_cza_informacje_o_naszych_fps_pingu_tickrate_itp">Włącza informacje o naszych FPS, pingu, tickrate itp.</string>
+    <string name="cl_showfps_1_2_3_4" translatable="false">cl_showfps 1/2/3/4</string>
+    <string name="ustala_pozycj_net_graph_u">Ustala pozycję net graphu.</string>
+    <string name="net_graphpos" translatable="false">net_graphpos</string>
+    <string name="ustala_wielko_czcionki_net_graph_u">Ustala wielkość czcionki net_graph’u</string>
+    <string name="net_graphproportionalfont" translatable="false">net_graphproportionalfont</string>
+    <string name="ustala_miejsce_net_graph_u_wysoko">Ustala miejsce net_graph’u (wysokość).</string>
+    <string name="net_graphheight" translatable="false">net_graphheight</string>
+    <string name="ustala_maksymaln_ilo_fps_w_grze">Ustala maksymalną ilość FPS w grze.</string>
+    <string name="fps_max" translatable="false">fps_max</string>
+    <string name="ustala_maksymaln_ilo_fps_w_menu">Ustala maksymalną ilość FPS w menu</string>
+    <string name="fps_max_menu" translatable="false">fps_max_menu</string>
+    <string name="aduje_wszystkie_tekstury_itp_przed_do_czeniem_do_gry">Ładuje wszystkie tekstury itp. przed dołączeniem do gry</string>
+    <string name="cl_forcepreload_1" translatable="false">cl_forcepreload 1</string>
+    <string name="c4" translatable="false">C4</string>
+    <string name="give_item_kevlar" translatable="false">give item_kevlar</string>
+    <string name="kevlar">Kevlar</string>
+    <string name="give_weapon_taser" translatable="false">give weapon_taser</string>
+    <string name="zeus" translatable="false">Zeus</string>
+    <string name="give_weapon_c4" translatable="false">give weapon_c4</string>
+    <string name="kevlar_helmet">Kamizelka+Hełm</string>
+    <string name="give_item_assaultsuit" translatable="false">give item_assaultsuit</string>
+    <string name="defuse_kit">Defuse Kit</string>
+    <string name="give_item_defuser" translatable="false">give item_defuser</string>
+    <string name="rescue_kit">Rescue Kit</string>
+    <string name="give_item_cutters" translatable="false">give item_cutters</string>
+    <string name="healthshot">Healthshot</string>
+    <string name="give_weapon_healthshot" translatable="false">give weapon_healthshot</string>
+    <string name="breachcharge">Breachcharge</string>
+    <string name="give_weapon_breachcharge" translatable="false">give weapon_breachcharge</string>
+    <string name="diversion_device" translatable="false">Diversion Device</string>
+    <string name="give_weapon_bumpmine" translatable="false">give weapon_bumpmine</string>
+    <string name="exojump" translatable="false">exojump</string>
+    <string name="exo_jump" translatable="false">Exo jump</string>
+    <string name="give_weapon_shield" translatable="false">give weapon_shield</string>
+    <string name="ballistic_shield" translatable="false">Ballistic shield</string>
+    <string name="bump_mine">Bump Mine</string>
+    <string name="give_weapon_tablet" translatable="false">give weapon_tablet</string>
+    <string name="tablet">Tablet</string>
+    <string name="give_weapon_frag" translatable="false">give weapon_frag</string>
+    <string name="frag_grenade">Frag Grenade</string>
+    <string name="give_weapon_firebomb" translatable="false">give weapon_firebomb</string>
+    <string name="firebomb">Firebomb</string>
+    <string name="give_weapon_diversion" translatable="false">give weapon_diversion</string>
+    <string name="turret">Turret</string>
+    <string name="ent_create_dronegun" translatable="false">ent_create dronegun</string>
+    <string name="the_amazon_drone">The Amazon Drone</string>
+    <string name="ent_create_drone" translatable="false">ent_create drone</string>
+    <string name="give_item_cash" translatable="false">give item_cash</string>
+    <string name="ammo_box" translatable="false">Ammo Box</string>
+    <string name="ent_create_prop_ammo_box_generic" translatable="false">ent_create prop_ammo_box_generic</string>
+    <string name="parachute" translatable="false">Parachute</string>
+    <string name="ent_create_prop_weapon_upgrade_chute" translatable="false">ent_create prop_weapon_upgrade_chute</string>
+    <string name="special_target">Special target</string>
+    <string name="ent_create_prop_weapon_upgrade_contractkill" translatable="false">ent_create prop_weapon_upgrade_contractkill</string>
+    <string name="no_e">Noże</string>
+    <string name="pistolety" translatable="false">Pistolety</string>
+    <string name="smg" translatable="false">SMG</string>
+    <string name="bro_ci_szka">Broń ciężka</string>
+    <string name="karabiny">Karabiny</string>
+    <string name="granaty">Granaty</string>
+    <string name="ekwipunek">Ekwipunek</string>
+    <string name="danger_zone" translatable="false">Danger zone</string>
+    <string name="inne_2">inne</string>
+    <string name="money">Money</string>
+    <string name="impulse_101" translatable="false">Impulse 101</string>
+    <string name="ammo">Ammo</string>
+    <string name="givecurrentammo" translatable="false">givecurrentammo</string>
+    <string name="chicken">Chicken</string>
+    <string name="give_chicken" translatable="false">give chicken</string>
+    <string name="m249" translatable="false">M249</string>
+    <string name="give_weapon_m249" translatable="false">give weapon_m249</string>
+    <string name="mag7" translatable="false">Mag7</string>
+    <string name="give_weapon_mag7" translatable="false">give weapon_mag7</string>
+    <string name="negev" translatable="false">Negev</string>
+    <string name="give_weapon_negev" translatable="false">give weapon_negev</string>
+    <string name="nova" translatable="false">Nova</string>
+    <string name="give_weapon_nova" translatable="false">give weapon_nova</string>
+    <string name="sawed_off" translatable="false">Sawed-off</string>
+    <string name="give_weapon_sawedoff" translatable="false">give weapon_sawedoff</string>
+    <string name="xm1014" translatable="false">XM1014</string>
+    <string name="give_weapon_xm1014" translatable="false">give weapon_xm1014</string>
+</resources>
