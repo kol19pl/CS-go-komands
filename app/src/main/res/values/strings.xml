@@ -242,7 +242,7 @@
     <string name="ssg_08" translatable="false">SSG 08</string>
     <string name="give_weapon_ssg08" translatable="false">give weapon_ssg08</string>
     <string name="w_cza_informacje_o_fps">Włącza informacje o FPS</string>
-    <string name="net_graph_1" translatable="false">net_graph 1</string>
+    <string name="net_graph_1" translatable="false">net_graph 0 / 1 / 2 / 3</string>
     <string name="w_cza_informacje_o_naszych_fps_pingu_tickrate_itp">Włącza informacje o naszych FPS, pingu, tickrate itp.</string>
     <string name="cl_showfps_1_2_3_4" translatable="false">cl_showfps 1/2/3/4</string>
     <string name="ustala_pozycj_net_graph_u">Ustala pozycję net graphu.</string>
@@ -352,4 +352,38 @@
     <string name="give_weapon_knife_skeleton" translatable="false">give weapon_knife_skeleton</string>
     <string name="give_weapon_knife_outdoor" translatable="false">give weapon_knife_outdoor</string>
     <string name="w_cza_lub_wy_cz_komunikacj_g_osow_w_grze">Włącza lub wyłączą komunikację głosową w grze.</string>
+    <string name="w_cza_list_serwer_w_podczas_gry">Włącza listę serwerów podczas gry</string>
+    <string name="gamemenucommand_openserverbrowser_gameui_activate" translatable="false">gamemenucommand openserverbrowser; gameui_activate</string>
+    <string name="bindy_to_komendy_lub_zestawy_komend_wykonywanych_po_naci_ni_ciu_jednego_przycisku">Bindy to komendy lub zestawy komend wykonywanych po naciśnięciu jednego przycisku</string>
+    <string name="none" translatable="false">...</string>
+    <string name="przypisz_komend_komendy_do_przycisku">Przypisz komendę / komendy do przycisku</string>
+    <string name="bind_przycisk_komenda">bind [przycisk] [\'\'komenda\'\']</string>
+    <string name="osx_przypisz_komend_komendy_do_przycisku">OSX Przypisz komendę / komendy do przycisku</string>
+    <string name="bind_osx_przycisk_komenda">bind_osx [przycisk] [\'\'komenda\'\']</string>
+    <string name="unbind_przycisk">unbind [przycisk]</string>
+    <string name="usu_bind_z_przycisku">Usuń bind z przycisku</string>
+    <string name="key_listboundkeys" translatable="false">key_listboundkeys</string>
+    <string name="lista_przycisk_w_z_przypisan_akcj">Lista przycisków z przypisaną akcją</string>
+    <string name="bindtoggle_przycisk_komenda">BindToggle [przycisk] [\'\'komenda\'\']</string>
+    <string name="binduj_komend_z_zmien_warto_ci_np_voice_enable_1">binduję komendę z zmieną wartością np „Voice_enable 1”</string>
+    <string name="x_ray_wallhack_1_0" translatable="false">X-Ray (Wallhack) 1 / 0</string>
+    <string name="spec_show_xray_1" translatable="false">spec_show_xray 1</string>
+    <string name="pokazywanie_k_ka_ostrzegaj_cego_gdy_namierzymy_na_koleg_z_dru_yny">Pokazywanie kółka ostrzegającego, gdy namierzymy na kolegę z drużyny</string>
+    <string name="cl_crosshair_friendly_warning_2" translatable="false">cl_crosshair_friendly_warning 2</string>
+    <string name="usuni_cie_efektu_lec_cych_kul">Usunięcie efektu lecących kul</string>
+    <string name="r_drawtracers_firstperson_0" translatable="false">r_drawtracers_firstperson 0</string>
+    <string name="w_cza_list_serwer_w_podczas_gry">Włącza listę serwerów podczas gry</string>
+    <string name="gamemenucommand_openserverbrowser_gameui_activate">gamemenucommand openserverbrowser; gameui_activate</string>
+    <string name="kasuje_mapy_pobrane_na_warsztacie_zasubskrybowane_mapy_od_nowa_si_pobior">Kasuje mapy pobrane na warsztacie zasubskrybowane mapy od nowa się pobiorą</string>
+    <string name="cl_remove_all_workshop_maps" translatable="false">cl_remove_all_workshop_maps</string>
+    <string name="informacje_o_pakietach_udp_w_konsoli">informacje o pakietach UDP w konsoli</string>
+    <string name="net_showudp_1_0" translatable="false">net_showudp 1 / 0</string>
+    <string name="informacje_o_pakietach_oob_udp_w_konsoli">informacje o pakietach OOB UDP w konsoli</string>
+    <string name="net_showudp_oob_1_0" translatable="false">net_showudp_oob 1 / 0</string>
+    <string name="informacje_o_twojej_sieci">informacje o twojej sieci</string>
+    <string name="net_status" translatable="false">net_status</string>
+    <string name="informacje_o_zdarzeniach_sieciowych">informacje o zdarzeniach sieciowych.</string>
+    <string name="net_dumpeventstats" translatable="false">net_dumpeventstats</string>
+    <string name="sllaccck" translatable="false">///////////////////////////////////////////////</string>
+    <string name="bindy" translatable="false">bindy</string>
 </resources>

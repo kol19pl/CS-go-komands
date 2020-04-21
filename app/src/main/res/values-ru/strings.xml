@@ -129,4 +129,22 @@
     <string name="zmienia_rodzaj_celownika_1_5">Меняет тип видоискателя 1-5</string>
     <string name="zmienia_wielko_celownika">Изменяет размер видоискателя.</string>
     <string name="zmienia_wielko_radaru">Изменяет размер радара</string>
+    <string name="w_cza_list_serwer_w_podczas_gry">Включает список серверов во время игры</string>
+    <string name="bindy_to_komendy_lub_zestawy_komend_wykonywanych_po_naci_ni_ciu_jednego_przycisku">Bindy - это команды или наборы команд, выполняемые нажатием кнопки</string>
+    <string name="przypisz_komend_komendy_do_przycisku">Назначить команду / команды для кнопки</string>
+    <string name="bind_przycisk_komenda">bind [кнопка] [\'\' команда \'\']</string>
+    <string name="osx_przypisz_komend_komendy_do_przycisku">OSX Назначьте команду (и) на кнопку</string>
+    <string name="bind_osx_przycisk_komenda">bind_osx [кнопка] [\'\' команда \'\']</string>
+    <string name="unbind_przycisk">unbind [кнопка]</string>
+    <string name="usu_bind_z_przycisku">Удалить привязку с кнопки</string>
+    <string name="lista_przycisk_w_z_przypisan_akcj">Список кнопок с назначенным действием</string>
+    <string name="bindtoggle_przycisk_komenda">BindToggle [кнопка] [\'\' команда \'\']</string>
+    <string name="binduj_komend_z_zmien_warto_ci_np_voice_enable_1">Я связываю команду со значением переменной, например, «Voice_enable 1»</string>
+    <string name="pokazywanie_k_ka_ostrzegaj_cego_gdy_namierzymy_na_koleg_z_dru_yny">Отображение предупреждающего круга, когда мы нацелены на товарища по команде</string>
+    <string name="usuni_cie_efektu_lec_cych_kul">Снятие эффекта летящих шаров</string>
+    <string name="kasuje_mapy_pobrane_na_warsztacie_zasubskrybowane_mapy_od_nowa_si_pobior">Удаляет карты, загруженные в мастерской, подписанные карты будут загружены снова</string>
+    <string name="informacje_o_pakietach_udp_w_konsoli">информация о пакетах UDP в консоли</string>
+    <string name="informacje_o_pakietach_oob_udp_w_konsoli">информация о пакетах OOB UDP в консоли</string>
+    <string name="informacje_o_twojej_sieci">информация о вашей сети</string>
+    <string name="informacje_o_zdarzeniach_sieciowych">информация о сетевых событиях.</string>
 </resources>

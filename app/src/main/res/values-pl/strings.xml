@@ -129,4 +129,22 @@
     <string name="w_cz_czity">Włącz czity</string>
     <string name="w_cz_wy_ucanie_no_y">Włącz wyrzucanie noży</string>
     <string name="pistolety">Pistolety</string>
+    <string name="w_cza_list_serwer_w_podczas_gry">Włącza listę serwerów podczas gry</string>
+    <string name="bindy_to_komendy_lub_zestawy_komend_wykonywanych_po_naci_ni_ciu_jednego_przycisku">Bindy to komendy lub zestawy komend wykonywanych po naciśnięciu jednego przycisku</string>
+    <string name="przypisz_komend_komendy_do_przycisku">Przypisz komendę / komendy do przycisku</string>
+    <string name="bind_przycisk_komenda">bind [przycisk] [\'\'komenda\'\']</string>
+    <string name="osx_przypisz_komend_komendy_do_przycisku">OSX Przypisz komendę / komendy do przycisku</string>
+    <string name="bind_osx_przycisk_komenda">bind_osx [przycisk] [\'\'komenda\'\']</string>
+    <string name="unbind_przycisk">unbind [przycisk]</string>
+    <string name="usu_bind_z_przycisku">Usuń bind z przycisku</string>
+    <string name="lista_przycisk_w_z_przypisan_akcj">Lista przycisków z przypisaną akcją</string>
+    <string name="bindtoggle_przycisk_komenda">BindToggle [przycisk] [\'\'komenda\'\']</string>
+    <string name="binduj_komend_z_zmien_warto_ci_np_voice_enable_1">binduję komendę z zmieną wartością np „Voice_enable 1”</string>
+    <string name="pokazywanie_k_ka_ostrzegaj_cego_gdy_namierzymy_na_koleg_z_dru_yny">Pokazywanie kółka ostrzegającego, gdy namierzymy na kolegę z drużyny</string>
+    <string name="usuni_cie_efektu_lec_cych_kul">Usunięcie efektu lecących kul</string>
+    <string name="kasuje_mapy_pobrane_na_warsztacie_zasubskrybowane_mapy_od_nowa_si_pobior">Kasuje mapy pobrane na warsztacie zasubskrybowane mapy od nowa się pobiorą</string>
+    <string name="informacje_o_pakietach_udp_w_konsoli">informacje o pakietach UDP w konsoli</string>
+    <string name="informacje_o_pakietach_oob_udp_w_konsoli">informacje o pakietach OOB UDP w konsoli</string>
+    <string name="informacje_o_twojej_sieci">informacje o twojej sieci</string>
+    <string name="informacje_o_zdarzeniach_sieciowych">informacje o zdarzeniach sieciowych.</string>
 </resources>

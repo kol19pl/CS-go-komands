@@ -119,4 +119,11 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(MainActivity.this,Inne.class);
         startActivity(intent);
     }
+
+    public void Bindy(View v){
+        // setContentView(R.layout.celownik);
+
+        Intent intent = new Intent(MainActivity.this,Bindy.class);
+        startActivity(intent);
+    }
 }

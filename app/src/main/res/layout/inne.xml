@@ -71,6 +71,44 @@
                 android:text="@string/mp_team_timeout_time"
                 android:textAlignment="center"
                 android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/textView145"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#00E676"
+                android:text="@string/w_cza_list_serwer_w_podczas_gry"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView144"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/gamemenucommand_openserverbrowser_gameui_activate"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/inne1.1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#00E676"
+                android:text="@string/kasuje_mapy_pobrane_na_warsztacie_zasubskrybowane_mapy_od_nowa_si_pobior"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/inne1.2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/cl_remove_all_workshop_maps"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
         </LinearLayout>
     </ScrollView>
 

@@ -180,6 +180,45 @@
                 android:text="@string/cl_show_clan_in_death_notice"
                 android:textAlignment="center"
                 android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/hud1.1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/pokazywanie_k_ka_ostrzegaj_cego_gdy_namierzymy_na_koleg_z_dru_yny"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/hud1.2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/cl_crosshair_friendly_warning_2"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/hud2.1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/usuni_cie_efektu_lec_cych_kul"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/hud2.2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/r_drawtracers_firstperson_0"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+
+
         </LinearLayout>
     </ScrollView>
 

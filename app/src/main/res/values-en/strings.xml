@@ -129,4 +129,22 @@
     <string name="w_cz_czity">Turn on chits</string>
     <string name="w_cz_wy_ucanie_no_y">Turn on knife throwing</string>
     <string name="pistolety">Pistols</string>
+    <string name="w_cza_list_serwer_w_podczas_gry">Enables the server list during the game</string>
+    <string name="bindy_to_komendy_lub_zestawy_komend_wykonywanych_po_naci_ni_ciu_jednego_przycisku">Bindy to komendy lub zestawy komend wykonywanych po naciśnięciu jednego przycisku</string>
+    <string name="przypisz_komend_komendy_do_przycisku">Assign a command / commands to the button</string>
+    <string name="bind_przycisk_komenda">bind [button] [\'\' command \'\']</string>
+    <string name="osx_przypisz_komend_komendy_do_przycisku">OSX Assign command (s) to the button</string>
+    <string name="bind_osx_przycisk_komenda">bind_osx [button] [\'\' command \'\']</string>
+    <string name="unbind_przycisk">unbind [button]</string>
+    <string name="usu_bind_z_przycisku">Remove bind from button</string>
+    <string name="lista_przycisk_w_z_przypisan_akcj">List of buttons with assigned action</string>
+    <string name="bindtoggle_przycisk_komenda">BindToggle [button] [\'\' command \'\']</string>
+    <string name="binduj_komend_z_zmien_warto_ci_np_voice_enable_1">I bind a command with a variable value, e.g. \"Voice_enable 1\"</string>
+    <string name="pokazywanie_k_ka_ostrzegaj_cego_gdy_namierzymy_na_koleg_z_dru_yny">Showing a warning circle when we target a teammate</string>
+    <string name="usuni_cie_efektu_lec_cych_kul">Removing the effect of flying balls</string>
+    <string name="kasuje_mapy_pobrane_na_warsztacie_zasubskrybowane_mapy_od_nowa_si_pobior">Deletes maps downloaded in the workshop, the subscribed maps will download again</string>
+    <string name="informacje_o_pakietach_udp_w_konsoli">information about UDP packages in the console</string>
+    <string name="informacje_o_pakietach_oob_udp_w_konsoli">information about OOB UDP packages in the console</string>
+    <string name="informacje_o_twojej_sieci">information about your network</string>
+    <string name="informacje_o_zdarzeniach_sieciowych">information about network events.</string>
 </resources>

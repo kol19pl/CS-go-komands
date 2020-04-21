@@ -146,9 +146,17 @@
                 android:background="@drawable/buton"
                 android:textColor="@android:color/background_light"
                 android:text="@string/nagrywanie_obs_uga_dema" />
-
             <Button
                 android:id="@+id/button14"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Bindy"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
+                android:text="@string/bindy" />
+
+            <Button
+                android:id="@+id/button16"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:onClick="Inne"
