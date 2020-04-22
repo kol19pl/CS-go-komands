@@ -372,8 +372,6 @@
     <string name="cl_crosshair_friendly_warning_2" translatable="false">cl_crosshair_friendly_warning 2</string>
     <string name="usuni_cie_efektu_lec_cych_kul">Usunięcie efektu lecących kul</string>
     <string name="r_drawtracers_firstperson_0" translatable="false">r_drawtracers_firstperson 0</string>
-    <string name="w_cza_list_serwer_w_podczas_gry">Włącza listę serwerów podczas gry</string>
-    <string name="gamemenucommand_openserverbrowser_gameui_activate">gamemenucommand openserverbrowser; gameui_activate</string>
     <string name="kasuje_mapy_pobrane_na_warsztacie_zasubskrybowane_mapy_od_nowa_si_pobior">Kasuje mapy pobrane na warsztacie zasubskrybowane mapy od nowa się pobiorą</string>
     <string name="cl_remove_all_workshop_maps" translatable="false">cl_remove_all_workshop_maps</string>
     <string name="informacje_o_pakietach_udp_w_konsoli">informacje o pakietach UDP w konsoli</string>

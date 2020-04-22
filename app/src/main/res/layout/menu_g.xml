@@ -11,7 +11,6 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_marginStart="16dp"
-        app:layout_constraintBottom_toTopOf="@+id/adView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
@@ -44,145 +43,134 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/buton"
-                android:textColor="@android:color/background_light"
                 android:onClick="Boty"
-                android:text="@string/boty" />
+                android:text="@string/boty"
+                android:textColor="@android:color/background_light" />
 
             <Button
                 android:id="@+id/button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:onClick="Celownik"
                 android:background="@drawable/buton"
-                android:textColor="@android:color/background_light"
-                android:text="@string/komendy_na_celownik" />
+                android:onClick="Celownik"
+                android:text="@string/komendy_na_celownik"
+                android:textColor="@android:color/background_light" />
 
             <Button
                 android:id="@+id/button15"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:onClick="Radar"
                 android:background="@drawable/buton"
-                android:textColor="@android:color/background_light"
-                android:text="@string/radar" />
+                android:onClick="Radar"
+                android:text="@string/radar"
+                android:textColor="@android:color/background_light" />
 
             <Button
                 android:id="@+id/button2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:onClick="KomendydoCwiczen"
                 android:background="@drawable/buton"
-                android:textColor="@android:color/background_light"
-                android:text="@string/komendy_do_wicze" />
+                android:onClick="KomendydoCwiczen"
+                android:text="@string/komendy_do_wicze"
+                android:textColor="@android:color/background_light" />
 
             <Button
                 android:id="@+id/button6"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:onClick="FPS"
                 android:background="@drawable/buton"
-                android:textColor="@android:color/background_light"
-                android:text="@string/fps" />
+                android:onClick="FPS"
+                android:text="@string/fps"
+                android:textColor="@android:color/background_light" />
 
             <Button
                 android:id="@+id/button7"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:onClick="Hud"
                 android:background="@drawable/buton"
-                android:textColor="@android:color/background_light"
-                android:text="@string/hud" />
+                android:onClick="Hud"
+                android:text="@string/hud"
+                android:textColor="@android:color/background_light" />
 
             <Button
                 android:id="@+id/button8"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:onClick="Myszka"
                 android:background="@drawable/buton"
-                android:textColor="@android:color/background_light"
-                android:text="@string/myszka" />
+                android:onClick="Myszka"
+                android:text="@string/myszka"
+                android:textColor="@android:color/background_light" />
 
             <Button
                 android:id="@+id/button9"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:onClick="Dzwienk"
                 android:background="@drawable/buton"
-                android:textColor="@android:color/background_light"
-                android:text="@string/d_wi_k" />
+                android:onClick="Dzwienk"
+                android:text="@string/d_wi_k"
+                android:textColor="@android:color/background_light" />
 
             <Button
                 android:id="@+id/button10"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:onClick="PozycjaBroni"
                 android:background="@drawable/buton"
-                android:textColor="@android:color/background_light"
-                android:text="@string/pozycja_broni" />
+                android:onClick="PozycjaBroni"
+                android:text="@string/pozycja_broni"
+                android:textColor="@android:color/background_light" />
 
             <Button
                 android:id="@+id/button11"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:onClick="ZarzadzanieSerwerem"
                 android:background="@drawable/buton"
-                android:textColor="@android:color/background_light"
-                android:text="@string/zarz_dzanie_serwerem" />
+                android:onClick="ZarzadzanieSerwerem"
+                android:text="@string/zarz_dzanie_serwerem"
+                android:textColor="@android:color/background_light" />
 
             <Button
                 android:id="@+id/button12"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:onClick="Loncze"
                 android:background="@drawable/buton"
-                android:textColor="@android:color/background_light"
-                android:text="@string/cze" />
+                android:onClick="Loncze"
+                android:text="@string/cze"
+                android:textColor="@android:color/background_light" />
 
             <Button
                 android:id="@+id/button13"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:onClick="Demo"
                 android:background="@drawable/buton"
-                android:textColor="@android:color/background_light"
-                android:text="@string/nagrywanie_obs_uga_dema" />
+                android:onClick="Demo"
+                android:text="@string/nagrywanie_obs_uga_dema"
+                android:textColor="@android:color/background_light" />
+
             <Button
                 android:id="@+id/button14"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:onClick="Bindy"
                 android:background="@drawable/buton"
-                android:textColor="@android:color/background_light"
-                android:text="@string/bindy" />
+                android:onClick="Bindy"
+                android:text="@string/bindy"
+                android:textColor="@android:color/background_light" />
 
             <Button
                 android:id="@+id/button16"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:onClick="Inne"
                 android:background="@drawable/buton"
-                android:textColor="@android:color/background_light"
-                android:text="@string/inne" />
+                android:onClick="Inne"
+                android:text="@string/inne"
+                android:textColor="@android:color/background_light" />
 
             <TextView
                 android:id="@+id/textView61"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/buton"
-                android:textColor="@android:color/background_light"/>
+                android:textColor="@android:color/background_light" />
         </LinearLayout>
     </ScrollView>
-
-    <com.google.android.gms.ads.AdView
-        android:id="@+id/adView"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:visibility="visible"
-        app:adSize="SMART_BANNER"
-        app:adUnitId="ca-app-pub-4834003578511022/6879713249"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        tools:visibility="visible" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
