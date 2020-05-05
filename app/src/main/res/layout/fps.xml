@@ -25,7 +25,8 @@
                 android:text="@string/w_cza_informacje_o_fps"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView34"
@@ -33,7 +34,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/cl_showfps_1_2_3_4"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView35"
@@ -43,7 +45,8 @@
                 android:text="@string/w_cza_informacje_o_naszych_fps_pingu_tickrate_itp"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView36"
@@ -51,7 +54,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/net_graph_1"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView49"
@@ -61,7 +65,8 @@
                 android:text="@string/ustala_pozycj_net_graph_u"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView50"
@@ -69,7 +74,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/net_graphpos"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView51"
@@ -79,7 +85,8 @@
                 android:text="@string/ustala_wielko_czcionki_net_graph_u"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView52"
@@ -87,7 +94,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/net_graphproportionalfont"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView53"
@@ -97,7 +105,8 @@
                 android:text="@string/ustala_miejsce_net_graph_u_wysoko"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView54"
@@ -105,7 +114,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/net_graphheight"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView55"
@@ -115,7 +125,8 @@
                 android:text="@string/ustala_maksymaln_ilo_fps_w_grze"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView56"
@@ -123,7 +134,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/fps_max"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView57"
@@ -133,7 +145,8 @@
                 android:text="@string/ustala_maksymaln_ilo_fps_w_menu"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView58"
@@ -141,7 +154,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/fps_max_menu"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView59"
@@ -151,7 +165,8 @@
                 android:text="@string/aduje_wszystkie_tekstury_itp_przed_do_czeniem_do_gry"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView60"
@@ -159,7 +174,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/cl_forcepreload_1"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
         </LinearLayout>
     </ScrollView>
     <com.google.android.gms.ads.AdView

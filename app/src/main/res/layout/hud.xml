@@ -26,7 +26,8 @@
                 android:text="@string/ustala_wielko_hud_u"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView63"
@@ -34,7 +35,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/hud_scaling"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView64"
@@ -44,7 +46,8 @@
                 android:text="@string/ustala_wielko_radaru"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView65"
@@ -52,7 +55,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/cl_hud_radar_scale"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView66"
@@ -62,7 +66,8 @@
                 android:text="@string/ustala_kolor_hud_u"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView67"
@@ -70,7 +75,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/cl_hud_color_1_7"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView68"
@@ -80,7 +86,8 @@
                 android:text="@string/ustala_prze_roczysto_hud_u"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView69"
@@ -89,7 +96,8 @@
                 android:text="@string/cl_hud_background_alpha"
                 android:textAlignment="center"
                 android:textSize="14sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView70"
@@ -99,7 +107,8 @@
                 android:text="@string/pokazuje_ikon_bomby_pod_radarem_gdy_jeste_my_w_jej_posiadaniu"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView71"
@@ -107,7 +116,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/cl_hud_bomb_under_radar"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView72"
@@ -117,7 +127,8 @@
                 android:text="@string/styl_wy_wietlania_ilo_ci_zdrowia"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView73"
@@ -125,7 +136,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/cl_hud_healthammo_style"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView74"
@@ -135,7 +147,8 @@
                 android:text="@string/czy_ma_pokazywa_ekwipunek_po_prawej_stronie_ekranu"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView75"
@@ -143,7 +156,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/cl_showloadout_0_1"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView76"
@@ -153,7 +167,8 @@
                 android:text="@string/czy_ma_wy_wietla_kolory_broni_po_prawej_stronie_na_ekranie"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView77"
@@ -161,7 +176,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/cl_loadout_colorweaponnames_0_1"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView78"
@@ -171,7 +187,8 @@
                 android:text="@string/clan_w_detch_note"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView79"
@@ -179,7 +196,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/cl_show_clan_in_death_notice"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/hud1.1"
@@ -189,7 +207,8 @@
                 android:text="@string/pokazywanie_k_ka_ostrzegaj_cego_gdy_namierzymy_na_koleg_z_dru_yny"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/hud1.2"
@@ -197,7 +216,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/cl_crosshair_friendly_warning_2"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/hud2.1"
@@ -207,7 +227,8 @@
                 android:text="@string/usuni_cie_efektu_lec_cych_kul"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/hud2.2"
@@ -215,7 +236,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/r_drawtracers_firstperson_0"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
 
 

@@ -26,7 +26,8 @@
                 android:text="@string/ilo_bot_w_na_serwerze"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/boty1.2"
@@ -34,7 +35,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/bot_quota_x"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/boty2.1"
@@ -44,7 +46,8 @@
                 android:text="@string/wyrzuca_wszystkie_boty_z_serwera"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/boty2.2"
@@ -52,7 +55,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/bot_kick"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/boty3.1"
@@ -62,7 +66,8 @@
                 android:text="@string/dodaje_bota_po_stronie_ct"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/boty3.2"
@@ -70,7 +75,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/bot_add_ct"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/boty4.1"
@@ -80,7 +86,8 @@
                 android:text="@string/dodaje_bota_po_stronie_t"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/boty4.2"
@@ -88,7 +95,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/bot_add_t"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/boty5.1"
@@ -98,7 +106,8 @@
                 android:text="@string/boty_nie_strzelaj"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/boty5.2"
@@ -106,7 +115,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/bot_dont_shoot_1"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/boty6.1"
@@ -116,7 +126,8 @@
                 android:text="@string/boty_zatrzymuj_si_w_miejscu"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/boty6.2"
@@ -124,7 +135,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/bot_stop_1"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/boty7.1"
@@ -134,7 +146,8 @@
                 android:text="@string/ustawianie_bota"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/boty7.2"
@@ -142,7 +155,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/bot_place"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/boty8.1"
@@ -152,7 +166,8 @@
                 android:text="@string/poziom_trudno_ci_bot_w"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/boty8.2"
@@ -160,7 +175,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/bot_difficulty_0_1_2_3"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
         </LinearLayout>
     </ScrollView>
 

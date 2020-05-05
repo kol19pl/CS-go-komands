@@ -19,11 +19,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
        // setContentView(R.layout.activity_main);
         setContentView(R.layout.menu_g);
-      //  MobileAds.initialize(this, "ca-app-pub-4834003578511022~3179021828");
+        MobileAds.initialize(this, "ca-app-pub-4834003578511022~3179021828");
 
-      //  mAdView = findViewById(R.id.adView);
-      //  AdRequest adRequest = new AdRequest.Builder().build();
-      //  mAdView.loadAd(adRequest);
+        mAdView = findViewById(R.id.adView);
+        AdRequest adRequest = new AdRequest.Builder().build();
+        mAdView.loadAd(adRequest);
 
     }
 

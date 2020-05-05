@@ -27,7 +27,8 @@
                 android:textAlignment="center"
                 android:textAllCaps="true"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView38"
@@ -35,7 +36,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/give_weapon_bizon"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView185"
@@ -46,7 +48,8 @@
                 android:textAlignment="center"
                 android:textAllCaps="true"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView186"
@@ -54,7 +57,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/give_weapon_mac10"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView187"
@@ -65,7 +69,8 @@
                 android:textAlignment="center"
                 android:textAllCaps="true"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView188"
@@ -73,7 +78,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/give_weapon_mp7"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView189"
@@ -84,7 +90,8 @@
                 android:textAlignment="center"
                 android:textAllCaps="true"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView190"
@@ -92,7 +99,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/give_weapon_mp9"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView191"
@@ -103,7 +111,8 @@
                 android:textAlignment="center"
                 android:textAllCaps="true"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView192"
@@ -111,7 +120,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/give_weapon_p90"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView193"
@@ -122,7 +132,8 @@
                 android:textAlignment="center"
                 android:textAllCaps="true"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView194"
@@ -130,7 +141,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/give_weapon_ump45"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView195"
@@ -141,7 +153,8 @@
                 android:textAlignment="center"
                 android:textAllCaps="true"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView196"
@@ -149,7 +162,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/give_weapon_mp5sd"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
         </LinearLayout>
     </ScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>

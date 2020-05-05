@@ -27,7 +27,8 @@
                 android:text="@string/bindy_to_komendy_lub_zestawy_komend_wykonywanych_po_naci_ni_ciu_jednego_przycisku"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/bindy1.2"
@@ -35,7 +36,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/none"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
 
             <TextView
@@ -46,7 +48,8 @@
                 android:text="@string/przypisz_komend_komendy_do_przycisku"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/bindy2.2"
@@ -54,7 +57,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/bind_przycisk_komenda"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/bindy3.1"
@@ -64,7 +68,8 @@
                 android:text="@string/osx_przypisz_komend_komendy_do_przycisku"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/bindy3.2"
@@ -72,7 +77,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/bind_osx_przycisk_komenda"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/bindy4.1"
@@ -82,7 +88,8 @@
                 android:text="@string/usu_bind_z_przycisku"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/bindy4.2"
@@ -90,7 +97,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/unbind_przycisk"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/bindy5.1"
@@ -100,7 +108,8 @@
                 android:text="@string/lista_przycisk_w_z_przypisan_akcj"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/bindy5.2"
@@ -108,7 +117,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/key_listboundkeys"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/bindy6.1"
@@ -118,7 +128,8 @@
                 android:text="@string/binduj_komend_z_zmien_warto_ci_np_voice_enable_1"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/bindy6.2"
@@ -126,7 +137,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/bindtoggle_przycisk_komenda"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
         </LinearLayout>
     </ScrollView>

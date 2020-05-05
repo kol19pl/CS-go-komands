@@ -25,7 +25,8 @@
                 android:text="@string/bro_w_lewej_r_ce_1_w_prawej_0"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView107"
@@ -33,7 +34,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/cl_righthand_0"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView108"
@@ -43,7 +45,8 @@
                 android:text="@string/ustala_odleg_o_broni"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView109"
@@ -51,7 +54,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/viewmodel_fov"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView110"
@@ -61,7 +65,8 @@
                 android:text="@string/ustala_pozycj_broni_x"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView111"
@@ -69,7 +74,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/viewmodel_offset_x"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView112"
@@ -79,7 +85,8 @@
                 android:text="@string/ustala_pozycj_broni_y"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView113"
@@ -87,7 +94,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/viewmodel_offset_y"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView114"
@@ -97,7 +105,8 @@
                 android:text="@string/ustala_pozycj_broni_z"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
 
             <TextView
                 android:id="@+id/textView115"
@@ -105,7 +114,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/viewmodel_offset_z"
                 android:textAlignment="center"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
         </LinearLayout>
     </ScrollView>
 

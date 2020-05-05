@@ -170,6 +170,18 @@
                 android:layout_height="wrap_content"
                 android:background="@drawable/buton"
                 android:textColor="@android:color/background_light" />
+
+            <com.google.android.gms.ads.AdView
+                android:id="@+id/adView"
+                android:visibility="visible"
+                app:adSize="SMART_BANNER"
+                app:adUnitId="ca-app-pub-4834003578511022/6879713249"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
         </LinearLayout>
     </ScrollView>
 
