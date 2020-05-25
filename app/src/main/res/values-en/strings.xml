@@ -147,4 +147,24 @@
     <string name="informacje_o_pakietach_oob_udp_w_konsoli">information about OOB UDP packages in the console</string>
     <string name="informacje_o_twojej_sieci">information about your network</string>
     <string name="informacje_o_zdarzeniach_sieciowych">information about network events.</string>
+    <string name="_1_kliknij_prawy_przycisk_i_wybierz_w_a_ciwo_ci">1. Click the right button and select Properties.</string>
+    <string name="_2_wybierz_ustaw_opcje_uruchamiania">2. Select Set startup options</string>
+    <string name="_3_wpisz_swoje_parametry">3. Enter your parameters</string>
+    <string name="textview">textview</string>
+    <string name="instrukcja_dodania_parametr_w_startowych">Instructions for adding startup parameters</string>
+    <string name="uruchamia_konsol_po_uruchomieniu_gry">Starts the console (~) after starting the game</string>
+    <string name="wy_cza_intro_podczas_uruchamiania">Disables the intro on startup</string>
+    <string name="otwarcie_gry_w_pe_nym_oknie">Opening the game in full window</string>
+    <string name="otwarcie_gry_w_okienku">Opening the game in the window</string>
+    <string name="wy_cz_obramowanie_systemowe_okna">Disable window system border</string>
+    <string name="ustawienie_preferowanej_szeroko_ci_width_obrazu">Set the preferred width (width) of the image</string>
+    <string name="ustawienie_preferowanej_wysoko_ci_height_obrazu">Set the preferred height of the image</string>
+    <string name="cz_stotliwo_od_wie_ania_monitora">Monitor refresh rate</string>
+    <string name="wy_czenie_wsparcia_d_ojstika_zmniejszenie_zu_ycia_pami_ci_ram">Turn off joystick support (reduce RAM consumption)</string>
+    <string name="wy_czenie_niekt_rych_funkcji_directx_9">Disable some DirectX 9 features</string>
+    <string name="wy_czenie_raportowania_b_d_w_w_konsoli">Disable error reporting in the console</string>
+    <string name="wy_czenie_wyg_adzania_czcionek">Disable font smoothing</string>
+    <string name="definiuje_plik_kt_ry_ma_zosta_dodatkowo_wczytany_po_uruchomieniu">Defines the file to be additionally loaded after launch</string>
+    <string name="ustawia_warto_tickrate">sets the tickrate value</string>
+    <string name="empty" />
 </resources>

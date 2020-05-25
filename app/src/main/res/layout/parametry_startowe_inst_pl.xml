@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView292"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/_1_kliknij_prawy_przycisk_i_wybierz_w_a_ciwo_ci"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="match_parent"
+                android:layout_height="210dp"
+                android:contentDescription="first step"
+                app:srcCompat="@drawable/insjedenpl" />
+
+            <TextView
+                android:id="@+id/textView293"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/_2_wybierz_ustaw_opcje_uruchamiania"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView25"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/insdwapl"
+                android:contentDescription="TODO" />
+
+            <TextView
+                android:id="@+id/textView294"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/_3_wpisz_swoje_parametry"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView26"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/instrzypl"
+                android:contentDescription="TODO" />
+
+            <TextView
+                android:id="@+id/textView295"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/empty" />
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

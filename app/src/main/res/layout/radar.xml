@@ -22,80 +22,80 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#76FF03"
+                android:gravity="center_horizontal"
                 android:text="@string/zmienia_wielko_radaru"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/radar1.2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
                 android:text="@string/cl_hud_radar_scale"
                 android:textAlignment="center"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/radar2.1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#76FF03"
+                android:gravity="center_horizontal"
                 android:text="@string/radar_w_centrum"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/radar2.2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
                 android:text="@string/cl_radar_always_centered_0_lub_1"
                 android:textAlignment="center"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/radar3.1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#76FF03"
+                android:gravity="center_horizontal"
                 android:text="@string/skala_radaru_ustala_pole_widzenia_na_radarze"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/radar3.2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
                 android:text="@string/cl_radar_scale"
                 android:textAlignment="center"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/radar4.1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#76FF03"
+                android:gravity="center_horizontal"
                 android:text="@string/wielko_znacznik_w_na_radarze"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/radar4.2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
                 android:text="@string/cl_radar_icon_scale_min"
                 android:textAlignment="center"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
         </LinearLayout>
     </ScrollView>
 

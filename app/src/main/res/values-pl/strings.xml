@@ -147,4 +147,24 @@
     <string name="informacje_o_pakietach_oob_udp_w_konsoli">informacje o pakietach OOB UDP w konsoli</string>
     <string name="informacje_o_twojej_sieci">informacje o twojej sieci</string>
     <string name="informacje_o_zdarzeniach_sieciowych">informacje o zdarzeniach sieciowych.</string>
+    <string name="_1_kliknij_prawy_przycisk_i_wybierz_w_a_ciwo_ci">1. Kliknij prawy przycisk i wybierz Właściwości.</string>
+    <string name="textview">TextView</string>
+    <string name="_2_wybierz_ustaw_opcje_uruchamiania">2. Wybierz Ustaw opcje uruchamiania</string>
+    <string name="_3_wpisz_swoje_parametry">3. Wpisz swoje parametry</string>
+    <string name="instrukcja_dodania_parametr_w_startowych">Instrukcja dodawania parametrów startowych</string>
+    <string name="uruchamia_konsol_po_uruchomieniu_gry">Uruchamia konsolę (~) po uruchomieniu gry</string>
+    <string name="wy_cza_intro_podczas_uruchamiania">Wyłącza intro podczas uruchamiania</string>
+    <string name="otwarcie_gry_w_pe_nym_oknie">Otwarcie gry w pełnym oknie</string>
+    <string name="otwarcie_gry_w_okienku">Otwarcie gry w okienku</string>
+    <string name="wy_cz_obramowanie_systemowe_okna">Wyłącz obramowanie systemowe okna</string>
+    <string name="ustawienie_preferowanej_szeroko_ci_width_obrazu">Ustawienie preferowanej szerokości (width) obrazu</string>
+    <string name="ustawienie_preferowanej_wysoko_ci_height_obrazu">Ustawienie preferowanej wysokości (height) obrazu</string>
+    <string name="cz_stotliwo_od_wie_ania_monitora">Częstotliwość odświeżania monitora</string>
+    <string name="wy_czenie_wsparcia_d_ojstika_zmniejszenie_zu_ycia_pami_ci_ram">Wyłączenie wsparcia dżojstika (zmniejszenie zużycia pamięci RAM)</string>
+    <string name="wy_czenie_niekt_rych_funkcji_directx_9">Wyłączenie niektórych funkcji DirectX 9</string>
+    <string name="wy_czenie_raportowania_b_d_w_w_konsoli">Wyłączenie raportowania błędów w konsoli</string>
+    <string name="wy_czenie_wyg_adzania_czcionek">Wyłączenie wygładzania czcionek</string>
+    <string name="definiuje_plik_kt_ry_ma_zosta_dodatkowo_wczytany_po_uruchomieniu">Definiuje plik, który ma zostać dodatkowo wczytany po uruchomieniu</string>
+    <string name="ustawia_warto_tickrate">ustawia wartość tickrate</string>
+    <string name="empty" />
 </resources>

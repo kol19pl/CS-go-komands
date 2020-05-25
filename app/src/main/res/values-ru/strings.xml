@@ -147,4 +147,24 @@
     <string name="informacje_o_pakietach_oob_udp_w_konsoli">информация о пакетах OOB UDP в консоли</string>
     <string name="informacje_o_twojej_sieci">информация о вашей сети</string>
     <string name="informacje_o_zdarzeniach_sieciowych">информация о сетевых событиях.</string>
+    <string name="_1_kliknij_prawy_przycisk_i_wybierz_w_a_ciwo_ci">1. Нажмите правую кнопку и выберите Свойства.</string>
+    <string name="_2_wybierz_ustaw_opcje_uruchamiania">2. Выберите Установить параметры запуска</string>
+    <string name="_3_wpisz_swoje_parametry">3. Введите ваши параметры</string>
+    <string name="textview">textview</string>
+    <string name="instrukcja_dodania_parametr_w_startowych">Инструкция по добавлению параметров запуска</string>
+    <string name="uruchamia_konsol_po_uruchomieniu_gry">Запускает консоль (~) после запуска игры</string>
+    <string name="wy_cza_intro_podczas_uruchamiania">Отключает вступление при запуске</string>
+    <string name="otwarcie_gry_w_pe_nym_oknie">Открытие игры в полном окне</string>
+    <string name="otwarcie_gry_w_okienku">Открытие игры в окне</string>
+    <string name="wy_cz_obramowanie_systemowe_okna">Отключить границы оконной системы</string>
+    <string name="ustawienie_preferowanej_szeroko_ci_width_obrazu">Установите предпочтительную ширину  изображения</string>
+    <string name="ustawienie_preferowanej_wysoko_ci_height_obrazu">Установите предпочтительную высоту изображения</string>
+    <string name="cz_stotliwo_od_wie_ania_monitora">Частота обновления монитора</string>
+    <string name="wy_czenie_wsparcia_d_ojstika_zmniejszenie_zu_ycia_pami_ci_ram">Отключить поддержку джойстика (уменьшить потребление оперативной памяти)</string>
+    <string name="wy_czenie_niekt_rych_funkcji_directx_9">Отключить некоторые функции DirectX 9</string>
+    <string name="wy_czenie_raportowania_b_d_w_w_konsoli">Отключить отчеты об ошибках в консоли</string>
+    <string name="wy_czenie_wyg_adzania_czcionek">Отключить сглаживание шрифтов</string>
+    <string name="definiuje_plik_kt_ry_ma_zosta_dodatkowo_wczytany_po_uruchomieniu">Определяет файл, который будет дополнительно загружен после запуска</string>
+    <string name="ustawia_warto_tickrate">устанавливает значение тикрейта</string>
+    <string name="empty" />
 </resources>
