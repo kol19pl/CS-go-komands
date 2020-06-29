@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Коменди до CS GO</string>
+    <string name="app_name">команды CS GO</string>
     <string name="_0_wy_cz_akceleracje_myszki_1_w_cza_akceleracja_myszki">0 Отключить ускорение мыши. 1 - включает ускорение мыши.</string>
     <string name="_1_w_cza_okno_powitalne_podczas_do_czania_na_serwer_0_wy_cza">1 Включает окно приветствия при подключении к серверу. 0 выключается.</string>
     <string name="_1_w_cza_podpowiedzi_w_grze_0_wy_cza">1 Включает подсказки в игре. 0 выключается.</string>
@@ -20,7 +20,7 @@
     <string name="czy_ma_wy_wietla_kolory_broni_po_prawej_stronie_na_ekranie">Отображать ли цвета оружия в правой части экрана.</string>
     <string name="d_wi_k">звук</string>
     <string name="darmowa_kamizelka_przy_odrodzeniu">Свободный жилет на возрождение</string>
-    <string name="decoy">манок</string>
+    <string name="decoy">Ложная</string>
     <string name="defuse_kit">Defuse Kit</string>
     <string name="dodaje_bota_po_stronie_ct">Добавляет бота на стороне CT</string>
     <string name="dodaje_bota_po_stronie_t">Добавляет бота на Т стороне.</string>
@@ -30,7 +30,7 @@
     <string name="frag_grenade">Осколочная граната</string>
     <string name="g_osowanie_na_przerw_podczas_trybu_turniejowego">Голосование за перерыв в режиме турнира</string>
     <string name="granaty">гранаты</string>
-    <string name="he_granade">ОН граната</string>
+    <string name="he_granade">НE граната</string>
     <string name="healthshot">Здоровье выстрел</string>
     <string name="ilo_bot_w_na_serwerze">Количество ботов на сервере.</string>
     <string name="incgrenade_ct_molotov">Зажигательная граната</string>
@@ -45,7 +45,7 @@
     <string name="komendy_na_bronie">Команды оружия</string>
     <string name="komendy_na_celownik">Перекрестие команд</string>
     <string name="komendy_na_granaty">Команды гранаты:</string>
-    <string name="komendy_na_granaty_dwa">гранатомет</string>
+    <string name="komendy_na_granaty_dwa">Гранаты</string>
     <string name="latanie_po_mapie_przechodzenie_przez_ciany">Облет карты / пересечение стен</string>
     <string name="losowe_spawny_na_mapie">Случайные сварные швы на карте</string>
     <string name="mo_liwo_kupna_broni_w_ka_dym_miejscu_na_mapie">Вы можете купить оружие в любом месте на карте</string>
@@ -67,7 +67,7 @@
     <string name="pokazuje_lady_po_kulach">Показывает метки от пуль</string>
     <string name="poziom_trudno_ci_bot_w">Уровень сложности ботов</string>
     <string name="pozycja_broni">Положение оружия</string>
-    <string name="radar">радиолокационный</string>
+    <string name="radar">Радар</string>
     <string name="radar_w_centrum">Радар в центре</string>
     <string name="rescue_kit">Спасательный комплект</string>
     <string name="rozpoczyna_nagrywanie_demka">Начинает запись демо.</string>
@@ -167,4 +167,28 @@
     <string name="definiuje_plik_kt_ry_ma_zosta_dodatkowo_wczytany_po_uruchomieniu">Определяет файл, который будет дополнительно загружен после запуска</string>
     <string name="ustawia_warto_tickrate">устанавливает значение тикрейта</string>
     <string name="empty" />
+    <string name="parametry_startowe">Параметры запуска</string>
+    <string name="niesko_czona_ilo_granat_w">Неограниченное количество гранат</string>
+    <string name="niesko_czona_ilo_amunicji_w_magazynku">Бесконечное количество патронов в журнале</string>
+    <string name="ustala_pr_dko_noclip_a">Устанавливает скорость ноклипа</string>
+    <string name="latanie_przechodzenie_przez_ciany">Летать / гулять сквозь стены</string>
+    <string name="w_cza_nie_miertelno_dla_wszystkich">Разрешает бессмертие для всех</string>
+    <string name="w_cza_nie_miertelno_dla_ciebie">Позволяет вам бессмертие</string>
+    <string name="szybkie_zako_czenie_rundy">Быстрый конец раунда</string>
+    <string name="mo_liwo_kupna_broni_w_ka_dym_miejscu">Вы можете купить оружие где угодно</string>
+    <string name="czas_na_kupno_broni">время покупать пистолет</string>
+    <string name="auto_odradzanie_dru_yny_t">Авто порождение команды T</string>
+    <string name="auto_odradzanie_dru_yny_ct">Авто порождает команду CT</string>
+    <string name="w_cza_losowe_spawny_na_mapie">Включает случайную сварку на карте</string>
+    <string name="uruchamia_tryb_ka_dy_na_ka_dego">Работает на всех в каждом режиме</string>
+    <string name="ustala_czas_rundy">Устанавливает время раунда</string>
+    <string name="u_ycie_komend_poni_ej_mo_e_wymaga_dodania_rcon_przed_komend_zale_nie_od_typu_serwera">Использование приведенных ниже команд может потребовать добавления «rcon» перед командой в зависимости от типа сервера.</string>
+    <string name="banuje_dan_osob_na_serwerze_perm">Забанить человека на сервере (Пермь)</string>
+    <string name="wyrzuca_dan_osob_z_serwera">Выгоняет человека из сервера</string>
+    <string name="restartuje_rund_na_serwerze">Перезапускает раунд на сервере</string>
+    <string name="boty_korzystaj_tyko_z_no_y">Боты используют только ножи</string>
+    <string name="boty_korzystaj_tyko_z_pistolet_w">Боты используют только пистолеты</string>
+    <string name="boty_korzystaj_ze_wszystkich_broni">Боты используют все оружие</string>
+    <string name="boty_odwzorowuj_nasze_ruchy">Боты подражают нашим движениям</string>
+    <string name="boty_kucaj">Боты сидят на корточках</string>
 </resources>

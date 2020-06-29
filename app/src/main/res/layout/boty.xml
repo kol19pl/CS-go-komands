@@ -177,6 +177,135 @@
                 android:textAlignment="center"
                 android:textStyle="bold"
                 android:gravity="center_horizontal" />
+
+
+            <TextView
+                android:id="@+id/boty9.1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/boty_korzystaj_tyko_z_no_y"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
+
+            <TextView
+                android:id="@+id/boty9.2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/bot_knives_only_1"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
+
+
+
+            <TextView
+                android:id="@+id/boty10.1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/boty_korzystaj_tyko_z_pistolet_w"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
+
+            <TextView
+                android:id="@+id/boty10.2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/bot_pistols_only_1"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
+
+
+            <TextView
+                android:id="@+id/boty11.1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/boty_korzystaj_ze_wszystkich_broni"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
+
+            <TextView
+                android:id="@+id/boty11.2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/bot_all_weapons_1"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
+
+
+            <TextView
+                android:id="@+id/boty12.1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/ustawianie_bota"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
+
+            <TextView
+                android:id="@+id/boty12.2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/bot_place"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
+
+
+            <TextView
+                android:id="@+id/boty13.1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/boty_kucaj"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
+
+            <TextView
+                android:id="@+id/boty13.2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/bot_crouch"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
+
+
+            <TextView
+                android:id="@+id/boty14.1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#76FF03"
+                android:text="@string/boty_odwzorowuj_nasze_ruchy"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
+
+            <TextView
+                android:id="@+id/boty14.2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/bot_mimic"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:gravity="center_horizontal" />
+
+
         </LinearLayout>
     </ScrollView>
 

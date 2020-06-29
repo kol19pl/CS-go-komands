@@ -424,4 +424,48 @@
     <string name="definiuje_plik_kt_ry_ma_zosta_dodatkowo_wczytany_po_uruchomieniu">Defines the file to be additionally loaded after launch</string>
     <string name="ustawia_warto_tickrate">sets the tickrate value</string>
     <string name="empty" />
+    <string name="parametry_startowe">Startup parameters</string>
+    <string name="bot_mimic" translatable="false">bot_mimic</string>
+    <string name="boty_odwzorowuj_nasze_ruchy">Bots imitate our movements</string>
+    <string name="bot_crouch" translatable="false">bot_crouch</string>
+    <string name="boty_kucaj">The bots are squatting</string>
+    <string name="bot_all_weapons_1" translatable="false">bot_all_weapons 1</string>
+    <string name="boty_korzystaj_ze_wszystkich_broni">Boty korzystają ze wszystkich broni</string>
+    <string name="bot_pistols_only_1" translatable="false">bot_pistols_only 1</string>
+    <string name="boty_korzystaj_tyko_z_pistolet_w">Bots use only pistols</string>
+    <string name="bot_knives_only_1" translatable="false">bot_knives_only 1</string>
+    <string name="boty_korzystaj_tyko_z_no_y">Bots use only knives</string>
+    <string name="restartuje_rund_na_serwerze">Restarts the round on the server</string>
+    <string name="rcon_mp_restartgame_1" translatable="false">rcon mp_restartgame 1</string>
+    <string name="wyrzuca_dan_osob_z_serwera">Kicks the person out of the server</string>
+    <string name="rcon_kick" translatable="false">rcon kick</string>
+    <string name="banuje_dan_osob_na_serwerze_perm">Banuje daną osobę na serwerze (perm)</string>
+    <string name="rcon_ban" translatable="false">rcon ban</string>
+    <string name="u_ycie_komend_poni_ej_mo_e_wymaga_dodania_rcon_przed_komend_zale_nie_od_typu_serwera">Using the commands below may require adding \'rcon\' before the command depending on the server type</string>
+    <string name="rcon_mp_roundtime_5" translatable="false">rcon mp_roundtime 5</string>
+    <string name="ustala_czas_rundy">Sets the round time</string>
+    <string name="mp_roundtime_x" translatable="false">mp_roundtime X</string>
+    <string name="mp_roundtime_5_4" translatable="false">mp_roundtime 5.4</string>
+    <string name="uruchamia_tryb_ka_dy_na_ka_dego">Runs on everyone on everyone mode</string>
+    <string name="mp_teammates_are_enemies_1" translatable="false">mp_teammates_are_enemies 1</string>
+    <string name="w_cza_losowe_spawny_na_mapie">Enables random welding on the map</string>
+    <string name="auto_odradzanie_dru_yny_ct">Auto spawn a CT team</string>
+    <string name="mp_respawn_on_death_ct_1" translatable="false">mp_respawn_on_death_ct 1</string>
+    <string name="auto_odradzanie_dru_yny_t">Auto spawn team T</string>
+    <string name="mp_respawn_on_death_t_1" translatable="false">mp_respawn_on_death_t 1</string>
+    <string name="czas_na_kupno_broni">time to buy a gun</string>
+    <string name="mp_buytime_5" translatable="false">mp_buytime 5</string>
+    <string name="mo_liwo_kupna_broni_w_ka_dym_miejscu">You can buy weapons anywhere</string>
+    <string name="mp_free_armor_1" translatable="false">mp_free_armor 1</string>
+    <string name="szybkie_zako_czenie_rundy">Quick end of the round</string>
+    <string name="roundend" translatable="false">roundend</string>
+    <string name="w_cza_nie_miertelno_dla_ciebie">Enables immortality for you</string>
+    <string name="w_cza_nie_miertelno_dla_wszystkich">Enables immortality for everyone</string>
+    <string name="gods" translatable="false">gods</string>
+    <string name="latanie_przechodzenie_przez_ciany">Flying / walking through walls</string>
+    <string name="ustala_pr_dko_noclip_a">Sets the speed of the  noclip</string>
+    <string name="sv_noclipspeed_x" translatable="false">sv_noclipspeed X</string>
+    <string name="niesko_czona_ilo_amunicji_w_magazynku">Nieskończona ilość amunicji w magazynku</string>
+    <string name="niesko_czona_ilo_granat_w">Unlimited number of grenades</string>
+    <string name="sv_infinite_ammo_2" translatable="false">sv_infinite_ammo 2</string>
 </resources>

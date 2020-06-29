@@ -171,7 +171,7 @@
                 android:layout_height="wrap_content"
                 android:background="@drawable/buton"
                 android:onClick="ParametryStartowe"
-                android:text="Parametry startowe"
+                android:text="@string/parametry_startowe"
                 android:textColor="@android:color/background_light" />
 
             <TextView
