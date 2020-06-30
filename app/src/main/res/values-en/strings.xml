@@ -119,7 +119,7 @@
     <string name="zmienia_rodzaj_celownika_1_5">Changes the type of viewfinder 1-5</string>
     <string name="zmienia_wielko_celownika">Changes the viewfinder size.</string>
     <string name="zmienia_wielko_radaru">Changes the size of the radar</string>
-    <string name="incgrenade_ct_molotov">Granat zapalający</string>
+    <string name="incgrenade_ct_molotov">Incgrenade (CT molotov)</string>
     <string name="myszka">mouse</string>
     <string name="nagrywanie_obs_uga_dema">Recording / Demo support</string>
     <string name="nie_miertelno">Immortality</string>
@@ -130,7 +130,7 @@
     <string name="w_cz_wy_ucanie_no_y">Turn on knife throwing</string>
     <string name="pistolety">Pistols</string>
     <string name="w_cza_list_serwer_w_podczas_gry">Enables the server list during the game</string>
-    <string name="bindy_to_komendy_lub_zestawy_komend_wykonywanych_po_naci_ni_ciu_jednego_przycisku">Bindy to komendy lub zestawy komend wykonywanych po naciśnięciu jednego przycisku</string>
+    <string name="bindy_to_komendy_lub_zestawy_komend_wykonywanych_po_naci_ni_ciu_jednego_przycisku">Bindy are commands or sets of commands executed at the push of a button</string>
     <string name="przypisz_komend_komendy_do_przycisku">Assign a command / commands to the button</string>
     <string name="bind_przycisk_komenda">bind [button] [\'\' command \'\']</string>
     <string name="osx_przypisz_komend_komendy_do_przycisku">OSX Assign command (s) to the button</string>
@@ -191,4 +191,5 @@
     <string name="boty_korzystaj_ze_wszystkich_broni">Bots use all weapons</string>
     <string name="boty_odwzorowuj_nasze_ruchy">Bots imitate our movements</string>
     <string name="boty_kucaj">The bots are squatting</string>
+    <string name="give_the_subject_the_properties_of_a_regular_knife">give the subject the properties of a regular knife</string>
 </resources>
