@@ -4,10 +4,21 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+
+    <FrameLayout
+        android:id="@+id/ad_view_container_Radar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+    </FrameLayout>
+
     <ScrollView
         android:layout_width="0dp"
         android:layout_height="0dp"
-        app:layout_constraintBottom_toTopOf="@+id/adView15"
+        app:layout_constraintBottom_toTopOf="@+id/ad_view_container_Radar"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
@@ -98,16 +109,5 @@
                 android:textStyle="bold" />
         </LinearLayout>
     </ScrollView>
-
-    <com.google.android.gms.ads.AdView
-        android:id="@+id/adView15"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:visibility="visible"
-        app:adSize="SMART_BANNER"
-        app:adUnitId="ca-app-pub-4834003578511022/4679805754"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
