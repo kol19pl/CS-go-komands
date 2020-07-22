@@ -182,7 +182,7 @@ public class MainActivity extends AppCompatActivity {
     public void onBackPressed()
     {
         if (back_pressed + 4000 > System.currentTimeMillis()) super.onBackPressed();
-        else Toast.makeText(getBaseContext(), "Wciśnij jeszcze raz, aby zamknąć!", Toast.LENGTH_SHORT).show();
+        else Toast.makeText(getBaseContext(), R.string.pop_up_zamykanie, Toast.LENGTH_SHORT).show();
         back_pressed = System.currentTimeMillis();
     }
 

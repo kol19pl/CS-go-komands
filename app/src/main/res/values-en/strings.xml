@@ -192,4 +192,5 @@
     <string name="boty_odwzorowuj_nasze_ruchy">Bots imitate our movements</string>
     <string name="boty_kucaj">The bots are squatting</string>
     <string name="give_the_subject_the_properties_of_a_regular_knife">give the subject the properties of a regular knife</string>
+    <string name="pop_up_zamykanie">Press again to close!</string>
 </resources>

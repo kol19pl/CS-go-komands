@@ -471,4 +471,5 @@
     <string name="ent_fire_weapon_knife_addoutput_classname_weapon_knifegg" translatable="false">ent_fire weapon_knife addoutput classname weapon_knifegg</string>
     <string name="give_weapon_knife_push_ent_fire_weapon_knife_addoutput_classname_weapon_knifegg" translatable="false">give weapon_knife_push;ent_fire weapon_knife addoutput classname weapon_knifegg</string>
     <string name="bindy_to_komendy_lub_zestawy_komend_wykonywanych_po_naci_ni_ciu_jednego_przycisku">Bindy are commands or sets of commands executed at the push of a button</string>
+    <string name="pop_up_zamykanie">Press again to close!</string>
 </resources>
