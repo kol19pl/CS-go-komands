@@ -10,7 +10,7 @@
     <string name="podajemy_has_o_rcon_do_zarz_dzania_serwerem">We provide the rcon password for server management.</string>
     <string name="_1_w_cza_okno_powitalne_podczas_do_czania_na_serwer_0_wy_cza">1 Enables the welcome window when joining a server. 0 turns off.</string>
     <string name="cl_disablehtmlmotd_1_0" translatable="false">cl_disablehtmlmotd 1/0</string>
-    <string name="_1_w_cza_podpowiedzi_w_grze_0_wy_cza">1 Włącza podpowiedzi w grze. 0 Wyłącza.</string>
+    <string name="_1_w_cza_podpowiedzi_w_grze_0_wy_cza">1 Enables hints in the game. 0 Turns off.</string>
     <string name="cl_showhelp_1_0" translatable="false">cl_showhelp 1/0</string>
     <string name="g_osowanie_na_przerw_podczas_trybu_turniejowego">Voting for a break during tournament mode</string>
     <string name="mp_team_timeout_time" translatable="false">mp_team_timeout_time</string>
@@ -79,7 +79,6 @@
     <string name="cl_crosshaircolor_g_0_255" translatable="false">cl_crosshaircolor_g 0-255</string>
     <string name="cl_crosshaircolor_b_0_255" translatable="false">cl_crosshaircolor_b 0-255</string>
     <string name="cl_crosshaircolor_0_10" translatable="false">cl_crosshaircolor 0-10</string>
-    <string name="ustala_og_ln_g_o_no_gry">Sets the overall game volume</string>
     <string name="voice_enable_0_1" translatable="false">voice_enable 0/1</string>
     <string name="snd_mixahead" translatable="false">snd_mixahead</string>
     <string name="ustala_op_nienie_d_wi_ku">Sets the sound delay</string>
@@ -289,7 +288,6 @@
     <string name="give_weapon_diversion" translatable="false">give weapon_diversion</string>
     <string name="turret">Turret</string>
     <string name="ent_create_dronegun" translatable="false">ent_create dronegun</string>
-    <string name="the_amazon_drone">The Amazon Drone</string>
     <string name="ent_create_drone" translatable="false">ent_create drone</string>
     <string name="give_item_cash" translatable="false">give item_cash</string>
     <string name="ammo_box" translatable="false">Ammo Box</string>
@@ -325,7 +323,7 @@
     <string name="give_weapon_sawedoff" translatable="false">give weapon_sawedoff</string>
     <string name="xm1014" translatable="false">XM1014</string>
     <string name="give_weapon_xm1014" translatable="false">give weapon_xm1014</string>
-    <string name="w_cz_czity">Turn on chits</string>
+    <string name="w_cz_czity">Turn on cheats</string>
     <string name="mp_drop_knife_enable_1" translatable="false">mp_drop_knife_enable 1</string>
     <string name="give_weapon_knife_t" translatable="false">give weapon_knife_t</string>
     <string name="give_weapon_knife_css" translatable="false">give weapon_knife_css</string>
@@ -359,7 +357,7 @@
     <string name="bind_przycisk_komenda">bind [button] [\'\' command \'\']</string>
     <string name="osx_przypisz_komend_komendy_do_przycisku">OSX Assign command (s) to the button</string>
     <string name="bind_osx_przycisk_komenda">bind_osx [button] [\'\' command \'\']</string>
-    <string name="unbind_przycisk">unbind [przycisk]</string>
+    <string name="unbind_przycisk">unbind [button]</string>
     <string name="usu_bind_z_przycisku">Remove bind from button</string>
     <string name="key_listboundkeys" translatable="false">key_listboundkeys</string>
     <string name="lista_przycisk_w_z_przypisan_akcj">List of buttons with assigned action</string>
@@ -472,4 +470,6 @@
     <string name="give_weapon_knife_push_ent_fire_weapon_knife_addoutput_classname_weapon_knifegg" translatable="false">give weapon_knife_push;ent_fire weapon_knife addoutput classname weapon_knifegg</string>
     <string name="bindy_to_komendy_lub_zestawy_komend_wykonywanych_po_naci_ni_ciu_jednego_przycisku">Bindy are commands or sets of commands executed at the push of a button</string>
     <string name="pop_up_zamykanie">Press again to close!</string>
+    <string name="ustala_og_ln_g_o_no_gry">Sets the overall game volume</string>
+    <string name="the_amazon_drone">The Amazon Drone</string>
 </resources>
