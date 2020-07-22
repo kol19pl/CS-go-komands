@@ -8,7 +8,7 @@
         android:id="@+id/scrollView3"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        app:layout_constraintBottom_toTopOf="@+id/ad_view_container_Bronie"
+        app:layout_constraintBottom_toTopOf="@+id/adView3"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
@@ -22,97 +22,96 @@
                 android:id="@+id/button17"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@drawable/buton"
                 android:onClick="Noze"
-                android:text="@string/no_e"
-                android:textColor="@android:color/background_light" />
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
+                android:text="@string/no_e" />
 
             <Button
                 android:id="@+id/button16"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@drawable/buton"
                 android:onClick="Pistolety"
-                android:text="@string/pistolety"
-                android:textColor="@android:color/background_light" />
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
+                android:text="@string/pistolety" />
 
             <Button
                 android:id="@+id/button18"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@drawable/buton"
                 android:onClick="SMG"
-                android:text="@string/smg"
-                android:textColor="@android:color/background_light" />
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
+                android:text="@string/smg" />
 
             <Button
                 android:id="@+id/button24"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@drawable/buton"
                 android:onClick="Hewi"
-                android:text="@string/bro_ci_szka"
-                android:textColor="@android:color/background_light" />
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
+                android:text="@string/bro_ci_szka" />
 
             <Button
                 android:id="@+id/button19"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@drawable/buton"
                 android:onClick="Karabiny"
-                android:text="@string/karabiny"
-                android:textColor="@android:color/background_light" />
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
+                android:text="@string/karabiny" />
 
             <Button
                 android:id="@+id/button20"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@drawable/buton"
                 android:onClick="Granaty"
-                android:text="@string/granaty"
-                android:textColor="@android:color/background_light" />
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
+                android:text="@string/granaty" />
 
             <Button
                 android:id="@+id/button21"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@drawable/buton"
                 android:onClick="Ekwipunek"
-                android:text="@string/ekwipunek"
-                android:textColor="@android:color/background_light" />
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
+                android:text="@string/ekwipunek" />
 
             <Button
                 android:id="@+id/button22"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@drawable/buton"
                 android:onClick="DangerZone"
-                android:text="@string/danger_zone"
-                android:textColor="@android:color/background_light" />
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
+                android:text="@string/danger_zone" />
 
             <Button
                 android:id="@+id/button23"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="@drawable/buton"
                 android:onClick="Inne"
-                android:text="@string/inne_2"
-                android:textColor="@android:color/background_light" />
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"
+                android:text="@string/inne_2" />
 
         </LinearLayout>
     </ScrollView>
 
-    <FrameLayout
-        android:id="@+id/ad_view_container_Bronie"
-        android:layout_width="match_parent"
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView3"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_centerInParent="true"
+        android:visibility="visible"
+        app:adSize="SMART_BANNER"
+        app:adUnitId="ca-app-pub-4834003578511022/4679805754"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent">
-
-    </FrameLayout>
+        app:layout_constraintStart_toStartOf="parent" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

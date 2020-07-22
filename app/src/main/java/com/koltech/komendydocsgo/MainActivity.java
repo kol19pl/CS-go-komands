@@ -47,8 +47,10 @@ public class MainActivity extends AppCompatActivity {
             public void onInitializationComplete(InitializationStatus initializationStatus) {}
         });
 
-      //  MobileAds.setRequestConfiguration(
-       //         new RequestConfiguration.Builder().setTestDeviceIds(Arrays.asList("ABCDEF012345")).build());
+       // MobileAds.setRequestConfiguration(
+        //        new RequestConfiguration.Builder().setTestDeviceIds(Arrays.asList("ABCDEF012345")).build());
+
+
 
 
         adContainerView = findViewById(R.id.ad_view_container_menu);
