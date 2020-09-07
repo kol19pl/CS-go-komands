@@ -7,11 +7,25 @@
     android:background="#68686B"
     android:orientation="vertical">
 
-    <ScrollView
+    <FrameLayout
+        android:id="@+id/ad_view_container_menu"
         android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+    </FrameLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView8"
+        android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_marginStart="16dp"
         android:layout_marginLeft="16dp"
+        app:layout_constraintBottom_toTopOf="@+id/ad_view_container_menu"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
@@ -180,15 +194,6 @@
                 android:layout_height="wrap_content"
                 android:background="@drawable/buton"
                 android:textColor="@android:color/background_light" />
-
-            <FrameLayout
-                android:id="@+id/ad_view_container_menu"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_centerInParent="true"
-                android:layout_alignParentBottom="true">
-
-            </FrameLayout>
 
         </LinearLayout>
     </ScrollView>
