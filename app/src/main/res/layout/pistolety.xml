@@ -5,10 +5,20 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <ScrollView
+    <FrameLayout
+        android:id="@+id/adConNz"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+    </FrameLayout>
+
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/adConNz"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
@@ -24,210 +34,210 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#76FF03"
+                android:gravity="center_horizontal"
                 android:text="@string/usp"
                 android:textAlignment="center"
                 android:textAllCaps="true"
                 android:textSize="18sp"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView146"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
                 android:text="@string/give_weapon_usp_silencer"
                 android:textAlignment="center"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView147"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#76FF03"
+                android:gravity="center_horizontal"
                 android:text="@string/desert_eagle"
                 android:textAlignment="center"
                 android:textAllCaps="true"
                 android:textSize="18sp"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView148"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
                 android:text="@string/give_weapon_deagle"
                 android:textAlignment="center"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView149"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#76FF03"
+                android:gravity="center_horizontal"
                 android:text="@string/dual_berettas"
                 android:textAlignment="center"
                 android:textAllCaps="true"
                 android:textSize="18sp"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView150"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
                 android:text="@string/give_weapon_elite"
                 android:textAlignment="center"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView151"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#76FF03"
+                android:gravity="center_horizontal"
                 android:text="@string/fiveseven"
                 android:textAlignment="center"
                 android:textAllCaps="true"
                 android:textSize="18sp"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView152"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
                 android:text="@string/give_weapon_fiveseven"
                 android:textAlignment="center"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView153"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#76FF03"
+                android:gravity="center_horizontal"
                 android:text="@string/glock_18"
                 android:textAlignment="center"
                 android:textAllCaps="true"
                 android:textSize="18sp"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView154"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
                 android:text="@string/give_weapon_glock"
                 android:textAlignment="center"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView155"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#76FF03"
+                android:gravity="center_horizontal"
                 android:text="@string/p2000"
                 android:textAlignment="center"
                 android:textAllCaps="true"
                 android:textSize="18sp"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView156"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
                 android:text="@string/give_weapon_hkp2000"
                 android:textAlignment="center"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView157"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#76FF03"
+                android:gravity="center_horizontal"
                 android:text="@string/p250"
                 android:textAlignment="center"
                 android:textAllCaps="true"
                 android:textSize="18sp"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView158"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
                 android:text="@string/give_weapon_p250"
                 android:textAlignment="center"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView159"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#76FF03"
+                android:gravity="center_horizontal"
                 android:text="@string/tec9"
                 android:textAlignment="center"
                 android:textAllCaps="true"
                 android:textSize="18sp"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView160"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
                 android:text="@string/give_weapon_tec9"
                 android:textAlignment="center"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView161"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#76FF03"
+                android:gravity="center_horizontal"
                 android:text="@string/cz75_auto"
                 android:textAlignment="center"
                 android:textAllCaps="true"
                 android:textSize="18sp"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView162"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
                 android:text="@string/give_weapon_cz75a"
                 android:textAlignment="center"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView163"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#76FF03"
+                android:gravity="center_horizontal"
                 android:text="@string/r8_revolver"
                 android:textAlignment="center"
                 android:textAllCaps="true"
                 android:textSize="18sp"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView164"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
                 android:text="@string/give_weapon_revolver"
                 android:textAlignment="center"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
         </LinearLayout>
     </ScrollView>
 </androidx.constraintlayout.widget.ConstraintLayout>

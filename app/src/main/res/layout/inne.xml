@@ -8,7 +8,7 @@
         android:id="@+id/scrollView7"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        app:layout_constraintBottom_toTopOf="@+id/adView10"
+        app:layout_constraintBottom_toTopOf="@+id/adConInne"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
@@ -23,60 +23,60 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#00E676"
+                android:gravity="center_horizontal"
                 android:text="@string/_1_w_cza_okno_powitalne_podczas_do_czania_na_serwer_0_wy_cza"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView138"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
                 android:text="@string/cl_disablehtmlmotd_1_0"
                 android:textAlignment="center"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView139"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#00E676"
+                android:gravity="center_horizontal"
                 android:text="@string/_1_w_cza_podpowiedzi_w_grze_0_wy_cza"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView140"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
                 android:text="@string/cl_showhelp_1_0"
                 android:textAlignment="center"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView141"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#00E676"
+                android:gravity="center_horizontal"
                 android:text="@string/g_osowanie_na_przerw_podczas_trybu_turniejowego"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView142"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
                 android:text="@string/mp_team_timeout_time"
                 android:textAlignment="center"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
 
             <TextView
@@ -84,53 +84,52 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#00E676"
+                android:gravity="center_horizontal"
                 android:text="@string/w_cza_list_serwer_w_podczas_gry"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/textView144"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
                 android:text="@string/gamemenucommand_openserverbrowser_gameui_activate"
                 android:textAlignment="center"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/inne1.1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="#00E676"
+                android:gravity="center_horizontal"
                 android:text="@string/kasuje_mapy_pobrane_na_warsztacie_zasubskrybowane_mapy_od_nowa_si_pobior"
                 android:textAlignment="center"
                 android:textSize="18sp"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/inne1.2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
                 android:text="@string/cl_remove_all_workshop_maps"
                 android:textAlignment="center"
-                android:textStyle="bold"
-                android:gravity="center_horizontal" />
+                android:textStyle="bold" />
 
         </LinearLayout>
     </ScrollView>
 
-    <com.google.android.gms.ads.AdView
-        android:id="@+id/adView10"
-        android:layout_width="0dp"
+    <FrameLayout
+        android:id="@+id/adConInne"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:visibility="visible"
-        app:adSize="SMART_BANNER"
-        app:adUnitId="ca-app-pub-4834003578511022/4679805754"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent">
+
+    </FrameLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
