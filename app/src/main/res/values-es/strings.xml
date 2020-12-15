@@ -192,4 +192,8 @@
     <string name="give_the_subject_the_properties_of_a_regular_knife">darle al sujeto las propiedades de un cuchillo regular</string>
     <string name="bindy_to_komendy_lub_zestawy_komend_wykonywanych_po_naci_ni_ciu_jednego_przycisku">Bindy son comandos o conjuntos de comandos ejecutados con solo presionar un botón</string>
     <string name="pop_up_zamykanie">Presione nuevamente para cerrar!</string>
+    <string name="bind_oznaczenia_na_przycisk">Unir la marca en el botón</string>
+    <string name="bind_przycisk_player_ping">bind [botón] player_ping</string>
+    <string name="odleg_o_od_jakiej_oznaczenie_ma_zanika_ca_kowicie">La distancia desde la cual la indicación debe desaparecer por completo</string>
+    <string name="odleg_o_od_jakiej_oznaczenie_ma_zanika">La distancia desde la que debe desaparecer la indicación</string>
 </resources>

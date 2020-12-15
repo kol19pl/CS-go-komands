@@ -171,6 +171,15 @@
                 android:textColor="@android:color/background_light" />
 
             <Button
+                android:id="@+id/button26"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="Oznaczenia"
+                android:text="Oznaczenia"
+                android:background="@drawable/buton"
+                android:textColor="@android:color/background_light"/>
+
+            <Button
                 android:id="@+id/button16"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

@@ -1,6 +1,7 @@
 package com.koltech.komendydocsgo;
 
 import android.app.AlertDialog;
+import android.content.Intent;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
@@ -235,14 +236,9 @@ public class bronie extends AppCompatActivity {
         });
     }
     public void Granaty(View v){
-        setContentView(R.layout.granaty);
-        adContainerView = findViewById(R.id.adConNz);
-        adContainerView.post(new Runnable() {
-            @Override
-            public void run() {
-                loadBanner();
-            }
-        });
+        Intent intent = new Intent(bronie.this,Granaty.class);
+        startActivity(intent);
+      //  setContentView(R.layout.granaty);
     }
     public void Ekwipunek(View v){
         setContentView(R.layout.ekwipunek);
@@ -316,24 +312,20 @@ public class bronie extends AppCompatActivity {
         adView.loadAd(adRequest);
     }
 
+
     private AdSize getAdSize() {
-        // Determine the screen width (less decorations) to use for the ad width.
+        // Step 2 - Determine the screen width (less decorations) to use for the ad width.
         Display display = getWindowManager().getDefaultDisplay();
         DisplayMetrics outMetrics = new DisplayMetrics();
         display.getMetrics(outMetrics);
 
+        float widthPixels = outMetrics.widthPixels;
         float density = outMetrics.density;
 
-        float adWidthPixels = adContainerView.getWidth();
+        int adWidth = (int) (widthPixels / density);
 
-        // If the ad hasn't been laid out, default to the full screen width.
-        if (adWidthPixels == 0) {
-            adWidthPixels = outMetrics.widthPixels;
-        }
-
-        int adWidth = (int) (adWidthPixels / density);
-
-        return AdSize.getCurrentOrientationBannerAdSizeWithWidth(this, adWidth);
+        // Step 3 - Get adaptive ad size and return for setting on the ad view.
+        return AdSize.getCurrentOrientationAnchoredAdaptiveBannerAdSize(this, adWidth);
     }
 
 

@@ -193,4 +193,8 @@
     <string name="boty_kucaj">The bots are squatting</string>
     <string name="give_the_subject_the_properties_of_a_regular_knife">give the subject the properties of a regular knife</string>
     <string name="pop_up_zamykanie">Press again to close!</string>
+    <string name="bind_oznaczenia_na_przycisk">Bind the mark on the button</string>
+    <string name="bind_przycisk_player_ping">bind [button] player_ping</string>
+    <string name="odleg_o_od_jakiej_oznaczenie_ma_zanika_ca_kowicie">The distance from which the indication is to disappear completely</string>
+    <string name="odleg_o_od_jakiej_oznaczenie_ma_zanika">The distance from which the indication should fade</string>
 </resources>

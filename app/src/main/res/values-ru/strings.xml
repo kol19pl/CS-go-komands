@@ -193,4 +193,8 @@
     <string name="boty_kucaj">Боты сидят на корточках</string>
     <string name="give_the_subject_the_properties_of_a_regular_knife">придайте предмету свойства обычного ножа</string>
     <string name="pop_up_zamykanie">Нажмите еще раз, чтобы закрыть!</string>
+    <string name="bind_oznaczenia_na_przycisk">Сделайте отметку на кнопке</string>
+    <string name="bind_przycisk_player_ping">bind [кнопка] player_ping</string>
+    <string name="odleg_o_od_jakiej_oznaczenie_ma_zanika_ca_kowicie">Расстояние, с которого индикация должна полностью исчезнуть</string>
+    <string name="odleg_o_od_jakiej_oznaczenie_ma_zanika">Расстояние, с которого индикация должна исчезнуть</string>
 </resources>

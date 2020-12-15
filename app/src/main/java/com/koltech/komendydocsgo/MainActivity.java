@@ -160,6 +160,13 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    public void Oznaczenia(View v){
+        // setContentView(R.layout.celownik);
+
+        Intent intent = new Intent(MainActivity.this,Oznaczenia.class);
+        startActivity(intent);
+    }
+
     public void Bindy(View v){
         // setContentView(R.layout.celownik);
 

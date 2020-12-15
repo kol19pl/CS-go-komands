@@ -193,4 +193,8 @@
     <string name="boty_kucaj">Boty kucają</string>
     <string name="give_the_subject_the_properties_of_a_regular_knife">nadaj przedmiotowi właściwości zwykłego noża</string>
     <string name="pop_up_zamykanie">Naciśnij jeszcze raz, aby zamknąć!</string>
+    <string name="bind_oznaczenia_na_przycisk">Bind oznaczenia na przycisk</string>
+    <string name="bind_przycisk_player_ping">bind [przycisk] player_ping</string>
+    <string name="odleg_o_od_jakiej_oznaczenie_ma_zanika">Odległość od jakiej oznaczenie ma zanikać</string>
+    <string name="odleg_o_od_jakiej_oznaczenie_ma_zanika_ca_kowicie">Odległość od jakiej oznaczenie ma zniknąć całkowicie</string>
 </resources>

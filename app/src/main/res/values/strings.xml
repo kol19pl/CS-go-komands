@@ -472,4 +472,13 @@
     <string name="pop_up_zamykanie">Press again to close!</string>
     <string name="ustala_og_ln_g_o_no_gry">Sets the overall game volume</string>
     <string name="the_amazon_drone">The Amazon Drone</string>
+    <string name="bind_oznaczenia_na_przycisk">Bind the mark on the button</string>
+    <string name="bind_mouse3_player_ping" translatable="false">bind mouse3 player_ping</string>
+    <string name="odleg_o_od_jakiej_oznaczenie_ma_zanika">The distance from which the indication should fade</string>
+    <string name="cl_ping_fade_deadzone_60" translatable="false">cl_ping_fade_deadzone 60</string>
+    <string name="cl_ping_fade_distance_300" translatable="false">cl_ping_fade_distance 300</string>
+    <string name="cl_ping_fade_deadzone_0_100" translatable="false">cl_ping_fade_deadzone 0-100</string>
+    <string name="cl_ping_fade_distance_1_999" translatable="false">cl_ping_fade_distance 1-999</string>
+    <string name="odleg_o_od_jakiej_oznaczenie_ma_zanika_ca_kowicie">The distance from which the indication is to disappear completely</string>
+    <string name="bind_przycisk_player_ping">bind [button] player_ping</string>
 </resources>

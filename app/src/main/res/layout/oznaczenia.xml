@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:id="@+id/adConOznaczenia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+    </FrameLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView299"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#00E676"
+                android:gravity="center_horizontal"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold"
+
+                android:text="@string/bind_oznaczenia_na_przycisk" />
+
+            <TextView
+                android:id="@+id/textView300"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:text="@string/bind_przycisk_player_ping" />
+
+            <TextView
+                android:id="@+id/przykładowybind"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#A6AAA3"
+                android:gravity="center_horizontal"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:text="@string/bind_mouse3_player_ping" />
+
+            <TextView
+                android:id="@+id/OznaczeniaOdleglosczanikania"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#00E676"
+                android:gravity="center_horizontal"
+                android:text="@string/odleg_o_od_jakiej_oznaczenie_ma_zanika_ca_kowicie"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView303"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="@string/cl_ping_fade_deadzone_0_100"
+                android:textAlignment="center"
+
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView304"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#A6AAA3"
+                android:gravity="center_horizontal"
+                android:text="@string/cl_ping_fade_deadzone_60"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView305"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#00E676"
+                android:gravity="center_horizontal"
+                android:text="@string/odleg_o_od_jakiej_oznaczenie_ma_zanika"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView306"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="@string/cl_ping_fade_distance_1_999"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView307"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#A6AAA3"
+                android:gravity="center_horizontal"
+                android:text="@string/cl_ping_fade_distance_300"
+                android:textAlignment="center"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
