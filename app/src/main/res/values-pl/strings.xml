@@ -197,4 +197,5 @@
     <string name="bind_przycisk_player_ping">bind [przycisk] player_ping</string>
     <string name="odleg_o_od_jakiej_oznaczenie_ma_zanika">Odległość od jakiej oznaczenie ma zanikać</string>
     <string name="odleg_o_od_jakiej_oznaczenie_ma_zanika_ca_kowicie">Odległość od jakiej oznaczenie ma zniknąć całkowicie</string>
+    <string name="oznaczenia">Oznaczenia</string>
 </resources>

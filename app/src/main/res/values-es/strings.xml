@@ -196,4 +196,5 @@
     <string name="bind_przycisk_player_ping">bind [botón] player_ping</string>
     <string name="odleg_o_od_jakiej_oznaczenie_ma_zanika_ca_kowicie">La distancia desde la cual la indicación debe desaparecer por completo</string>
     <string name="odleg_o_od_jakiej_oznaczenie_ma_zanika">La distancia desde la que debe desaparecer la indicación</string>
+    <string name="oznaczenia">Señales</string>
 </resources>
