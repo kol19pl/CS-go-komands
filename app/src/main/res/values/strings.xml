@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Commands for CS GO</string>
+    <string name="app_name">Commands for CS:GO</string>
     <string name="rcon_password_has_o" translatable="false"><![CDATA[rcon_password <hasło>]]></string>
     <string name="rcon_sv_password_has_o" translatable="false"><![CDATA[rcon sv_password <hasło>]]></string>
     <string name="rcon_changelevel_nazwa_mapy" translatable="false"><![CDATA[rcon changelevel <nazwa mapy>]]></string>

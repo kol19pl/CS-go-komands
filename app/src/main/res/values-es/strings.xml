@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Comandos para CS GO</string>
+    <string name="app_name">Comandos para CS:GO</string>
     <string name="wczytuje_config_na_serwer">Carga la configuración en el servidor.</string>
     <string name="zmiana_mapy_na_serwerze">Cambiar el mapa en el servidor.</string>
     <string name="ustalamy_has_o_na_serwer">Establecemos una contraseña para el servidor.</string>

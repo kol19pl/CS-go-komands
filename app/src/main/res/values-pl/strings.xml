@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Komendy do CS GO</string>
+    <string name="app_name">Komendy do CS:GO</string>
     <string name="_0_wy_cz_akceleracje_myszki_1_w_cza_akceleracja_myszki">0 Wyłączą akceleracje myszki. 1 – Włącza akceleracja myszki.</string>
     <string name="_1_w_cza_okno_powitalne_podczas_do_czania_na_serwer_0_wy_cza">1 Włącza okno powitalne podczas dołączania na serwer. 0 wyłącza.</string>
     <string name="_1_w_cza_podpowiedzi_w_grze_0_wy_cza">1 Włącza podpowiedzi w grze. 0 Wyłącza.</string>
