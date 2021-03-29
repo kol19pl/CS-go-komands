@@ -1,0 +1,14 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_17_08_2024_23_58_[Changes]1" date="1723931948041" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_17_08_2024_23_58_[Changes]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 17.08.2024 23:58 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="gradlew" />
+    <option name="AFTER_PATH" value="gradlew" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_17_08_2024_23_58_[Changes]1/gradlew" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/release/app-release.aab" />
+    <option name="AFTER_PATH" value="app/release/app-release.aab" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_17_08_2024_23_58_[Changes]1/app-release.aab" />
+  </binary>
+</changelist>
