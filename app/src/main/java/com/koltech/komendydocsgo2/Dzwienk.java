@@ -1,4 +1,4 @@
-package com.koltech.komendydocsgo;
+package com.koltech.komendydocsgo2;
 
 import android.os.Bundle;
 import android.util.DisplayMetrics;
@@ -14,15 +14,14 @@ import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.ads.initialization.InitializationStatus;
 import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
 
-public class Granaty extends AppCompatActivity {
+public class Dzwienk extends AppCompatActivity {
     private AdView adView;
     private FrameLayout adContainerView;
-    private static final String AD_UNIT_ID = "ca-app-pub-4834003578511022/4679805754";
-
+    private static final String AD_UNIT_ID = "ca-app-pub-4834003578511022/1023563551";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.granaty);
+        setContentView(R.layout.dzwienk);
 
         MobileAds.initialize(this, new OnInitializationCompleteListener() {
             @Override
@@ -30,7 +29,7 @@ public class Granaty extends AppCompatActivity {
             }
         });
 
-        adContainerView = findViewById(R.id.adConGranaty);
+        adContainerView = findViewById(R.id.adConDzwienki);
 
         // Since we're loading the banner based on the adContainerView size, we need to wait until this
         // view is laid out before we can get the width.
@@ -40,6 +39,7 @@ public class Granaty extends AppCompatActivity {
                 loadBanner();
             }
         });
+
     }
 
 

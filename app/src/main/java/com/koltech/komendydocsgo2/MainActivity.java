@@ -1,4 +1,4 @@
-package com.koltech.komendydocsgo;
+package com.koltech.komendydocsgo2;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     //private AdView AdView;
     private AdView adView;
     private FrameLayout adContainerView;
-    private static final String AD_UNIT_ID = "ca-app-pub-4834003578511022/6879713249";
+    private static final String AD_UNIT_ID = "ca-app-pub-4834003578511022/1761930151";
 
     private static long back_pressed;
 

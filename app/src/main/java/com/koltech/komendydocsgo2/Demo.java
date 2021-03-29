@@ -1,10 +1,8 @@
-package com.koltech.komendydocsgo;
+package com.koltech.komendydocsgo2;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
 import android.view.Display;
-import android.view.View;
 import android.widget.FrameLayout;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -16,17 +14,14 @@ import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.ads.initialization.InitializationStatus;
 import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
 
-
-public class ParametryStartowe extends AppCompatActivity {
+public class Demo extends AppCompatActivity {
     private AdView adView;
     private FrameLayout adContainerView;
-    private static final String AD_UNIT_ID = "ca-app-pub-4834003578511022/4679805754";
-
-
+    private static final String AD_UNIT_ID = "ca-app-pub-4834003578511022/1023563551";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.parametry_startowe);
+        setContentView(R.layout.demo);
 
         MobileAds.initialize(this, new OnInitializationCompleteListener() {
             @Override
@@ -34,7 +29,8 @@ public class ParametryStartowe extends AppCompatActivity {
             }
         });
 
-        adContainerView = findViewById(R.id.adConParametST);
+
+        adContainerView = findViewById(R.id.adConDemo);
 
         // Since we're loading the banner based on the adContainerView size, we need to wait until this
         // view is laid out before we can get the width.
@@ -44,16 +40,6 @@ public class ParametryStartowe extends AppCompatActivity {
                 loadBanner();
             }
         });
-
-
-    }
-
-
-    public void ParametryStartoweInst(View v){
-        // setContentView(R.layout.celownik);
-
-        Intent intent = new Intent(ParametryStartowe.this,InstrukcjaParametruwStartowych.class);
-        startActivity(intent);
     }
 
 
@@ -122,8 +108,4 @@ public class ParametryStartowe extends AppCompatActivity {
         return AdSize.getCurrentOrientationBannerAdSizeWithWidth(this, adWidth);
     }
 
-
-
-
 }
-

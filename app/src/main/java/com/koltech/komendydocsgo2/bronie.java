@@ -1,4 +1,4 @@
-package com.koltech.komendydocsgo;
+package com.koltech.komendydocsgo2;
 
 import android.app.AlertDialog;
 import android.content.Intent;
@@ -24,10 +24,10 @@ import com.google.android.gms.ads.initialization.OnInitializationCompleteListene
 public class bronie extends AppCompatActivity {
     private AdView adView;
     private FrameLayout adContainerView;
-    private static final String AD_UNIT_ID = "ca-app-pub-4834003578511022/4679805754";
+    private static final String AD_UNIT_ID = "ca-app-pub-4834003578511022/1023563551";
     AdView adViewM;
     FrameLayout adContainerViewM;
-    String AD_UNIT_ID_POP_UP = "ca-app-pub-4834003578511022/5405526960";
+    String AD_UNIT_ID_POP_UP = "ca-app-pub-4834003578511022/1187215082";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

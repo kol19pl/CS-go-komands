@@ -1,4 +1,4 @@
-package com.koltech.komendydocsgo;
+package com.koltech.komendydocsgo2;
 
 import android.os.Bundle;
 import android.util.DisplayMetrics;
@@ -14,16 +14,14 @@ import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.ads.initialization.InitializationStatus;
 import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
 
-public class Komendydocwiczen extends AppCompatActivity {
+public class Loncze extends AppCompatActivity {
     private AdView adView;
     private FrameLayout adContainerView;
-    private static final String AD_UNIT_ID = "ca-app-pub-4834003578511022/4679805754";
-
+    private static final String AD_UNIT_ID = "ca-app-pub-4834003578511022/1023563551";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.komendydocwiczen);
-
+        setContentView(R.layout.loncze);
 
         MobileAds.initialize(this, new OnInitializationCompleteListener() {
             @Override
@@ -31,8 +29,7 @@ public class Komendydocwiczen extends AppCompatActivity {
             }
         });
 
-
-        adContainerView = findViewById(R.id.adConKomendydocwiczen);
+        adContainerView = findViewById(R.id.adConLoncze);
 
         // Since we're loading the banner based on the adContainerView size, we need to wait until this
         // view is laid out before we can get the width.

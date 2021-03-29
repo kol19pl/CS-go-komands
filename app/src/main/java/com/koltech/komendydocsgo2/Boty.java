@@ -1,4 +1,4 @@
-package com.koltech.komendydocsgo;
+package com.koltech.komendydocsgo2;
 
 import android.os.Bundle;
 import android.util.DisplayMetrics;
@@ -14,22 +14,21 @@ import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.ads.initialization.InitializationStatus;
 import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
 
-public class Dzwienk extends AppCompatActivity {
+public class Boty extends AppCompatActivity {
     private AdView adView;
     private FrameLayout adContainerView;
-    private static final String AD_UNIT_ID = "ca-app-pub-4834003578511022/4679805754";
+    private static final String AD_UNIT_ID = "ca-app-pub-4834003578511022/1023563551";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.dzwienk);
-
+        setContentView(R.layout.boty);
         MobileAds.initialize(this, new OnInitializationCompleteListener() {
             @Override
             public void onInitializationComplete(InitializationStatus initializationStatus) {
             }
         });
 
-        adContainerView = findViewById(R.id.adConDzwienki);
+        adContainerView = findViewById(R.id.adconboty);
 
         // Since we're loading the banner based on the adContainerView size, we need to wait until this
         // view is laid out before we can get the width.
@@ -39,10 +38,7 @@ public class Dzwienk extends AppCompatActivity {
                 loadBanner();
             }
         });
-
     }
-
-
     /** Called when leaving the activity */
     @Override
     public void onPause() {
@@ -105,5 +101,4 @@ public class Dzwienk extends AppCompatActivity {
 
         return AdSize.getCurrentOrientationBannerAdSizeWithWidth(this, adWidth);
     }
-
 }

@@ -1,4 +1,4 @@
-package com.koltech.komendydocsgo;
+package com.koltech.komendydocsgo2;
 
 import android.os.Bundle;
 import android.util.DisplayMetrics;
@@ -18,7 +18,7 @@ public class FPS extends AppCompatActivity {
 
     private AdView adView;
     private FrameLayout adContainerView;
-    private static final String AD_UNIT_ID = "ca-app-pub-4834003578511022/4679805754";
+    private static final String AD_UNIT_ID = "ca-app-pub-4834003578511022/1023563551";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

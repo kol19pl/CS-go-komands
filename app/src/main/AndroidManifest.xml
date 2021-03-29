@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.koltech.komendydocsgo">
+    package="com.koltech.komendydocsgo2">
 
     <uses-permission android:name="android.permission.INTERNET"></uses-permission>
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
@@ -15,7 +15,7 @@
 
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-4834003578511022~3179021828" />
+            android:value="ca-app-pub-4834003578511022~2341526414" />
 
         <activity android:name=".MainActivity">
             <intent-filter>
